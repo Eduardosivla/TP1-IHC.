@@ -9,7 +9,7 @@
 - Endryw Lucas
 - Jean Carlos S.
 
-
+  
 ## :mag: Sobre o Sistema
 _Miro_ é uma ferramenta online de colaboração e gestão visual de projetos que tem ganhado destaque no mercado de trabalho atual. A partir da necessidade de trabalhar cada vez mais e, remotamente, as empresas buscaram por soluções que possibilitassem a colaboração e a comunicação eficiente entre as equipes.
 A ferramente em si oferece uma plataforma intuitiva que permite a criação de quadros infinitos, fluxogramas, diagramas, mapas mentais, entre outras opções.
