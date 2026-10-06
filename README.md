@@ -1,6 +1,8 @@
 # Trabalho Prático 01 - Sistema: Miro.
 
-**Disciplina:** Interação Humano Computador
+**Disciplina:** Interação Humano Computador \
+**Docente:** Professor Dr. Andrey Rodrigues
+
 ## :busts_in_silhouette: Integrantes da Equipe: 
 - Carlos Eduardo
 - Kathleen Carvalho
