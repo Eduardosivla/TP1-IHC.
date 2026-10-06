@@ -66,12 +66,21 @@ TP1-IHC/
 | **Avaliação de Comunicabilidade**
 
 ## :link: Tecnologias e Ferramentas
--[Notion] (https://www.notion.so/)
--[Maze] (https://maze.co/)
--[UEQ] (https://www.ueq-online.org/)
--[ATLAS.ti] (https://www.ueq-online.org/)
+- [Notion] (https://www.notion.so/)
+- [Maze] (https://maze.co/)
+- [UEQ] (https://www.ueq-online.org/)
+- [ATLAS.ti] (https://www.ueq-online.org/)
+
+
+
+
+
+
+
+
 
 ## :robot: Declaração de USO de IA
+A equipe utilizou ferramentas de Inteligência Artificial como Gemini, Claude code, ChatGPT, para revisão textual, auxílio para a organização de documentação e repositório. A ferramentas foram utilizadas apenas como um suporte e direcionamento do trabalho, tendo em vista que todo o trabalho foi documentado, revisado, e o conteúdo gerado, como um todo, pela a equipe.
 
 ## :pushpin: Observações Finais
 
