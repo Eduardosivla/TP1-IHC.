@@ -1,7 +1,7 @@
 # Trabalho Prático 01 - Sistema: Miro.
 
 **Disciplina:** Interação Humano Computador
-## Integrantes da Equipe: 
+## :busts_in_silhouette: Integrantes da Equipe: 
 - Carlos Eduardo
 - Kathleen Carvalho
 - Lucas Bina
@@ -10,12 +10,12 @@
 - Jean Carlos S.
 
 
-## Sobre o Sistema
+## :mag: Sobre o Sistema
 _Miro_ é uma ferramenta online de colaboração e gestão visual de projetos que tem ganhado destaque no mercado de trabalho atual. A partir da necessidade de trabalhar cada vez mais e, remotamente, as empresas buscaram por soluções que possibilitassem a colaboração e a comunicação eficiente entre as equipes.
 A ferramente em si oferece uma plataforma intuitiva que permite a criação de quadros infinitos, fluxogramas, diagramas, mapas mentais, entre outras opções.
 O público-alvo da _Miro_ (empresa/plataforma) é predominantemente B2B (Business-to-Business), tendo com principais perfis (por função): Produto & Engenharia, UX/UI Design, Estatégia & Operações, Marketing, RH & Educação.
 
-## Sumário
+## :clipboard: Sumário
 - [Apresentação do Sistema] (link)
 - [Avaliação de Usabilidade]
   - [Inspeção (Avaliação Heurística)] (link)
@@ -26,33 +26,53 @@ O público-alvo da _Miro_ (empresa/plataforma) é predominantemente B2B (Busines
 - [Avaliação de Acessibilidade] (link)
 - [Avaliação de Comunicabilidade] (link)
 
-## Organização do Repositório
+## :file_folder: Organização do Repositório
 
 ```
 TP1-IHC/
 |
-|--- 📁00-nome-do-sistema/
+|--- 📂00-nome-do-sistema/                   # Apresentação do Sistema avaliada
 |      |__ apresentacao-do-sistema.md
 |
 |
-|--- 📁01-avaliacao-usabilidade/
+|--- 📂01-avaliacao-usabilidade/             # Inspeção, teste, Maze
 |      |__ 1-inpecao.md
 |      |__ 2-teste.md
 |      |__ 3-maze.md
 |
-|--- 📁02-avaliacao-ux/
+|--- 📂02-avaliacao-ux/                      # UEQ e Análise no ATLAS.ti
 |      |__ experiencia-de-uso.md
 |
 |
-|--- 📁03-avaliacao-acessibilidade/
+|--- 📂03-avaliacao-acessibilidade/          # Inspeção com base na WCAG 2.2
 |      |__inspecao-de-usabilidade.md
 |
 | 
-|--- 📁04-avaliacao-comunicabilidade/
+|--- 📂04-avaliacao-comunicabilidade/        # Método MAC
 |      |__mac.md
 |
 |
-|---📃README.md
+|---📄README.md                              # Página Inicial do trabalho
 
 ```
+
+## Resumo das Avaliações
+| Avaliação | Descrição |
+| --------- | --------- |
+| **Inspeção de Usabilidade**
+| **Teste de Usabilidade**
+| **Avaliação da UX**
+| **Avaliação de Acessibilidade**
+| **Avaliação de Comunicabilidade**
+
+## :link: Tecnologias e Ferramentas
+-[Notion] (https://www.notion.so/)
+-[Maze] (https://maze.co/)
+-[UEQ] (https://www.ueq-online.org/)
+-[ATLAS.ti] (https://www.ueq-online.org/)
+
+## :robot: Declaração de USO de IA
+
+## :pushpin: Observações Finais
+
 
