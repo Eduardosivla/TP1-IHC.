@@ -3,7 +3,7 @@
 Este documento apresenta o Sympla, sistema escolhido para a avaliação, descrevendo seu propósito, seus tipos de usuário e o escopo que será considerado nas etapas seguintes do trabalho.
 </p>
 
-<img width="1365" height="689" alt="image" src="https://github.com/user-attachments/assets/26269dfe-20a0-4246-a025-88fc30375b57" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/26269dfe-20a0-4246-a025-88fc30375b57" />
 
 *[Figura 1 - Tela inicial do Sympla].*
 
@@ -50,7 +50,7 @@ O Sympla existe para conectar quem organiza eventos a quem deseja participar del
 |Gestão de vendas e participantes | Acompanha vendas, estoque de ingressos e pagamentos.| Organizador|
 |Controle de entrada | Auxilia a conferir os ingressos do público no evento. | Organizador|
 
-### Principal Funcionalidade do Sympla <img width="1365" height="688" alt="image" src="https://github.com/user-attachments/assets/a1d87035-f866-4666-9a0a-84a5ff041e27" />
+### Principal Funcionalidade do Sympla <img height="400" alt="image" src="https://github.com/user-attachments/assets/a1d87035-f866-4666-9a0a-84a5ff041e27" />
 
 *Figura 2 — [Tela inicial de Buscas de Eventos].*
 
