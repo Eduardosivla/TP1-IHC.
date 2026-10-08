@@ -14,9 +14,7 @@
   
 ## :mag: Sobre o Sistema
 <p align="justify">
-Miro é uma ferramenta online de colaboração e gestão visual de projetos que tem ganhado destaque no mercado de trabalho atual. A partir da necessidade de trabalhar cada vez mais e, remotamente, as empresas buscaram por soluções que possibilitassem a colaboração e a comunicação eficiente entre as equipes.
-A ferramente em si oferece uma plataforma intuitiva que permite a criação de quadros infinitos, fluxogramas, diagramas, mapas mentais, entre outras opções.
-O público-alvo da Miro (empresa/plataforma) é predominantemente B2B (Business-to-Business), tendo com principais perfis (por função): Produto & Engenharia, UX/UI Design, Estatégia & Operações, Marketing, RH & Educação.
+Sympla é uma plataforma brasileira de eventos que reúne, em um só ambiente, a divulgação de eventos, a venda de ingressos e a gestão de participantes. Com a popularização de shows, festivais, cursos, palestras e encontros, tanto presenciais quanto online, surgiu a necessidade de soluções que facilitassem o acesso do público aos eventos e a organização por parte de quem os promove. O sistema atende a essa demanda ao permitir que o público encontre eventos por cidade, categoria ou localização, compre ou retire ingressos de forma digital e acesse tudo pelo celular, enquanto os organizadores criam eventos, vendem ingressos e controlam a entrada do público. O público-alvo do Sympla é amplo, formado principalmente por participantes (consumidores que buscam e compram ingressos) e organizadores (pessoas e empresas que realizam eventos), o que o caracteriza como uma plataforma que conecta os dois lados.
 </p>  
 
 ## :clipboard: Sumário
@@ -60,7 +58,7 @@ TP1-IHC/
 
 ```
 
-## Resumo das Avaliações
+## :bar_chart: Resumo das Avaliações
 | Avaliação | Descrição |
 | --------- | --------- |
 | **Inspeção de Usabilidade**
