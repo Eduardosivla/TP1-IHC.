@@ -1,4 +1,4 @@
-# Trabalho Prático 01 - Sistema: Miro.
+# Trabalho Prático 01 - Sistema: Sympla.
 **Disciplina:** Interação Humano Computador \
 **Docente:** Professor Dr. Andrey Rodrigues
 </p>  
