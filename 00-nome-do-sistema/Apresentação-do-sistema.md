@@ -1,6 +1,6 @@
 ## Apresentação do Sistema
 <p align="justify">
-Este documento apresenta o sistema escolhido para a avaliação, descrever seu principal propósito, seus tipos de usuário e o escopo que será considerado nas etapas seguintes do trabalho.
+Este documento apresenta o Sympla, sistema escolhido para a avaliação, descrevendo seu propósito, seus tipos de usuário e o escopo que será considerado nas etapas seguintes do trabalho.
 </p>
 
 <img height="300" alt="telaInicial-miro" src="https://github.com/user-attachments/assets/de7b1f66-975a-49e4-bdc7-e45261c8cc2b" />
@@ -9,37 +9,63 @@ Este documento apresenta o sistema escolhido para a avaliação, descrever seu p
 
 
 ## 1. -Sistema Avaliado
-**Nome:** _[Mira]_
-
-**Endereço:** _[https://miro.com/pt/]_
-\
+**Nome:** Sympla<br>
+**Tipo:** plataforma web e aplicativo móvel<br>
+**Endereço:** [https://www.sympla.com.br](https://www.sympla.com.br)<br> \
 <p align="justify">
-O Miro se destaca por oferecer um canvas digital infinito que conecta equipes em tempo real, permitindo visualizar ideias, estruturar processos e cocriar projetos de forma interativa e integrada. Essa flexibilidade transforma o trabalho colaborativo em uma experiência dinâmica, criativa e altamente produtiva, independentemente da localização dos participantes.
+O Sympla é uma plataforma brasileira de eventos que reúne, em um só ambiente, a divulgação de eventos, a venda de ingressos e a gestão de participantes. Nela, o público encontra e compra ingressos, e os organizadores criam e administram seus eventos.
 </p>
 
 ## 2. -Domínio
 <p align="justify">
-O domínio do sistema apresentando baseia-se e encontra-se, em grande quantidades, na educação, saúde, serviços financeiros, indústria, tecnologia e serviços profissionais.
+O sistema está inserido no domínio de **entretenimento e eventos**, com forte relação com o **comércio eletrônico**, já que envolve a venda de ingressos e o pagamento online.
 </p>
 
 ## 3. -Finalidade
 <p align="justify">
-Miro é uma plataforma de colaboração visual online com espaço de trabalho orientado por IA, projetada para permitir que equipes de qualquer tamanho idealizem, projetem e criem soluções juntas, seja de forma síncrona ou assíncrona.  Sua finalidade principal é substituir ferramentas limitadas e silos de informação por um canvas infinito centralizado onde times multifuncionais podem alinhar estratégias, documentar processos e inovar rapidamente.
+O Sympla existe para conectar quem organiza eventos a quem deseja participar deles. Com o sistema, é possível:
 </p>
+
+- **Descobrir** eventos por cidade, categoria ou localização;
+- **Comprar ou retirar** ingressos, inclusive de eventos gratuitos;
+- **Acessar** os ingressos adquiridos de forma prática pelo celular;
+- **Criar e gerenciar** eventos presenciais, online ou híbridos, com venda de ingressos e controle de entrada.
 
 ## 4. -Principais Usuários
 | Perfil | Descrição | Conhecimento necessário|
 |--------|-----------|------------------------|
-| Idosos |
-|
+| **Participante** | Pessoa que busca eventos, compra ou realiza a retirada de ingressos e os utiliza na entrada do evento. | Uso básico de internet e de celular; familiaridade com compras online. |
+| **Organizador** | Pessoa ou empresa que cria eventos, define ingressos (preços, quantidades), acompanha vendas e controla o acesso do público. | Noções de organização e administração de eventos e vendas; familiaridade com plataformas digitais. |
+
+> **O Sistema atende dois tipos de perfis com necessidades diferentes. Sendo assim, a equipe irá definir qual deles será o foco da avaliação.**
 
 
 ## 5. -Funcionalidade
-<p align="justify">
-As principais funcionalidade do Miro incluem a capacidade de criar mapas mentais, fluxogramas e diagramas com facilidade, bem como a opção de criar votações em tempo real, entre equipes, para obter maior feedback da mesma.
-Miro oferece também a opção de gravar sessões de colaborações para que possam ser acessadas posteriormente, bem como a possibilidade de definir permissões de acesso para membros da equipe, garantindo que apenas pessoas autorizadas possam acessar e editar o conteúdo do quadro virutal.
-</p>
+| Funcionalidade | Descrição | Perfil |
+|----------------|-----------|--------|
+|Busca e filtros de eventos | Permite procurar eventos por região, categoria ou localização. | Participante. |
+|Mapa e coleção de eventos | Mostra eventos próximos e agrupa eventos por tema. | Participante. |
+|Compra de ingressos | Permite escolher o tipo de ingresso, informar os dados e pagar online.| Participante. |
+|Criação de eventos | Permite cadastrar um evento, com data, locas, descrição e lote de ingressos. | Organizador |
+|Gestão de vendas e participantes | Acompanha vendas, estoque de ingressos e pagamentos.| Organizador|
+|Controle de entrada | Auxilia a conferir os ingressos do público no evento. | Organizador|
 
+## Principal Funcionalidade do Sympla <img width="1365" height="688" alt="image" src="https://github.com/user-attachments/assets/a1d87035-f866-4666-9a0a-84a5ff041e27" />
+
+*Figura 2 — [Tela inicial de Buscas de Eventos].*
+
+## 6. -Escopo da avaliação
+
+**Incluído no escopo:**
+- Busca e filtragem de eventos
+- Visualização dos detalhes de um evento
+- Cadastro e login do participante
+- Processo de compra ou retirada de ingresso
+- Acesso aos ingressos em "Meus Ingressos"
+- Área do organizador (Criação e gestão de eventos)
+
+## Considerações
+O Sympla foi escolhido por ser um sistema de uso amplo e cotidiano, com fluxos claros e tarefas facilmente identificáveis, como buscar um evento e obter um ingresso. O escopo se concentra na experiência do participante, e essa delimitação orienta a inspeção de usabilidade, o teste com usuários e as demais avaliações deste trabalho.
 
 
 
