@@ -3,22 +3,22 @@
 Este documento apresenta o Sympla, sistema escolhido para a avaliação, descrevendo seu propósito, seus tipos de usuário e o escopo que será considerado nas etapas seguintes do trabalho.
 </p>
 
-<img height="300" alt="telaInicial-miro" src="https://github.com/user-attachments/assets/de7b1f66-975a-49e4-bdc7-e45261c8cc2b" />
+<img width="1365" height="689" alt="image" src="https://github.com/user-attachments/assets/26269dfe-20a0-4246-a025-88fc30375b57" />
 
-*[Figura 1 - Tela inicial da Miro].*
+*[Figura 1 - Tela inicial do Sympla].*
 
 
 ## 1. -Sistema Avaliado
 **Nome:** Sympla<br>
 **Tipo:** plataforma web e aplicativo móvel<br>
-**Endereço:** [https://www.sympla.com.br](https://www.sympla.com.br)<br> \
+**Endereço:** [https://www.sympla.com.br](https://www.sympla.com.br)<br>
 <p align="justify">
 O Sympla é uma plataforma brasileira de eventos que reúne, em um só ambiente, a divulgação de eventos, a venda de ingressos e a gestão de participantes. Nela, o público encontra e compra ingressos, e os organizadores criam e administram seus eventos.
 </p>
 
 ## 2. -Domínio
 <p align="justify">
-O sistema está inserido no domínio de **entretenimento e eventos**, com forte relação com o **comércio eletrônico**, já que envolve a venda de ingressos e o pagamento online.
+O sistema está inserido no domínio de entretenimento e eventos, com forte relação com o comércio eletrônico, já que envolve a venda de ingressos e o pagamento online.
 </p>
 
 ## 3. -Finalidade
@@ -50,7 +50,7 @@ O Sympla existe para conectar quem organiza eventos a quem deseja participar del
 |Gestão de vendas e participantes | Acompanha vendas, estoque de ingressos e pagamentos.| Organizador|
 |Controle de entrada | Auxilia a conferir os ingressos do público no evento. | Organizador|
 
-## Principal Funcionalidade do Sympla <img width="1365" height="688" alt="image" src="https://github.com/user-attachments/assets/a1d87035-f866-4666-9a0a-84a5ff041e27" />
+### Principal Funcionalidade do Sympla <img width="1365" height="688" alt="image" src="https://github.com/user-attachments/assets/a1d87035-f866-4666-9a0a-84a5ff041e27" />
 
 *Figura 2 — [Tela inicial de Buscas de Eventos].*
 
