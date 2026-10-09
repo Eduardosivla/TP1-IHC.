@@ -17,10 +17,10 @@
 
 
 ### Etapa 2 - Coleção
-- Coleção
+- [Coleção](https://app.notion.com/p/f5ff35647f03829b9cae8183bb0e83ca?v=d37f35647f038308ac4608eb7854abcb&source=copy_link)
 
 ### Etapa 3 - Discriminação
-- Discriminação
+- [Discriminação](https://app.notion.com/p/4aef35647f0383c184f901456a50ef8d?v=d37f35647f038308ac4608eb7854abcb&source=copy_link)
 
 ### Etapa 4 - Relato dos Resultados
-- Relato dos Resultados
+- [Relato dos Resultados](https://app.notion.com/p/3f3f35647f038022aba7fc5bbf6d21d8?v=d37f35647f038308ac4608eb7854abcb&source=copy_link)
