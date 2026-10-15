@@ -28,7 +28,7 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 
 ## Participantes e Tarefas:
 
-### [Texto].
+### [Textto].
 
 ## Registro das Seções:
 
