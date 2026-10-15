@@ -14,15 +14,19 @@ Abaixo estão as principais rupturas mapeadas pelo método:
 
 | Etiqueta (Ruptura) | O que o usuário expressa / sente | O que acontece na prática |
 | --- | --- | --- |
+| **Desisto** | "Não consigo concluir esta tarefa." | O usuário explicitamente admite não conseguir concluir uma tarefa. |
+| **Para mim está bom...** | "Terminei a tarefa com sucesso." | O usuário equivocadamente acredita que concluiu a tarefa. |
+| **Não, obrigado.** | "Prefiro seguir por outro caminho." | O usuário decide seguir por um caminho não preferido pelo designer, mesmo conhecendo o caminho preferido e sabendo como percorrê-lo. |
+| **Vai de outro jeito.** | "Não consigo seguir o caminho recomendado, vou tentar outro." | O usuário não conhece, ou não consegue percorrer, o caminho de interação preferido pelo designer e então é obrigado a seguir outro caminho de interação. |
 | **Cadê?** | "Onde está a função que eu preciso?" | O usuário não consegue expressar sua intenção através dos signos codificados na interface. |
-| **O que é isto?** | "Para que serve este botão/ícone?" | O usuário vê um elemento da interface, mas não compreende sua função ou o que acontecerá se interagir com ele. |
-| **E agora?** | "Qual é o próximo passo?" | Após realizar uma ação, o usuário não recebe um feedback claro e fica paralisado, sem saber como continuar a tarefa. |
-| **Oops!** | "Cliquei errado, deixa eu arrumar." | O usuário comete um pequeno deslize (como um clique acidental), percebe o erro imediatamente e consegue revertê-lo. |
-| **Por que não funciona?** | "Estou clicando e nada acontece!" | O usuário insiste em uma ação esperando um resultado específico, mas o sistema não responde como ele espera. |
-| **Para mim está bom** | "Terminei a tarefa com sucesso." | O usuário acredita que concluiu a tarefa corretamente e encerra a ação, mas, na verdade, cometeu um erro ou não atingiu o objetivo (falso sucesso). |
-| **Assim não dá** | "Eu desisto, não consigo fazer isso." | O usuário se sente frustrado ou incapaz de superar um obstáculo na interface e abandona a tarefa antes de concluí-la. |
-| **Epa! / Socorro!** | "Fiz algo muito errado, preciso de ajuda." | O usuário entra num caminho incorreto e se perde completamente, muitas vezes precisando da intervenção do avaliador para voltar. |
-| **Não, obrigado** | "Vou fazer do meu jeito, não quero essa ajuda." | O sistema oferece um atalho ou uma ferramenta facilitadora, mas o usuário prefere ignorar e fazer a tarefa por um caminho mais longo ou tradicional. |
+| **Ué, o que houve?** | "O que aconteceu? Não entendi a resposta do sistema." | O usuário não percebe ou não compreende as respostas do sistema decorrentes de uma ação anterior. |
+| **E agora?** | "Qual é o próximo passo?" | O usuário não sabe o que fazer em determinado momento para concluir uma tarefa. |
+| **Onde estou?** | "Por que não consigo fazer isso nesta etapa?" | O usuário tenta dizer algo que o sistema é capaz de entender em outro contexto, diferente do atual. |
+| **Epa!** | "Cometi um erro, preciso desfazê-lo." | O usuário cometeu um equívoco, percebe o engano e tenta desfazê-lo. |
+| **Assim não dá.** | "Esse caminho é improdutivo, vou parar." | O usuário interrompe e abandona um caminho de interação com vários passos por considerá-lo improdutivo. |
+| **O que é isto?** | "Para que serve este botão ou ícone?" | O usuário não consegue interpretar o significado dos signos estáticos e dinâmicos codificados na interface. |
+| **Socorro!** | "Preciso de ajuda para concluir esta tarefa." | O usuário consulta a ajuda online ou outras fontes de informação e explicação para concluir as tarefas. |
+| **Por que não funciona?** | "Por que o sistema não apresentou o resultado esperado?" | O usuário esperava obter determinados resultados do sistema e não entende por que o sistema produziu resultados diferentes do esperado. |
 
 Essas etiquetas são fundamentais para diagnosticar exatamente onde o design falha em guiar as ações e expectativas de quem está usando a plataforma.
 
