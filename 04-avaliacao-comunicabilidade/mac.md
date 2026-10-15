@@ -38,9 +38,8 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 
 ### [Apresentar o link dos vídeos]
 
-[Acesse o site clicando aqui: ](https://classroom.google.com/h/st)
-- [Vídeo do participante U1]
-- [Vídeo do participante U2]
+- [Vídeo do participante U1](https://classroom.google.com/h/st)
+- [Vídeo do participante U2](https://classroom.google.com/h/st)
 
 ## Etiquetagem das Rupturas
 
