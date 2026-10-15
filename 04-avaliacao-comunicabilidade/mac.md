@@ -32,7 +32,7 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 
 ## Participantes e Tarefas:
 
-### [Textto].
+### [A definir].
 
 ## Registro das Seções:
 
