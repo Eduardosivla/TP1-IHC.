@@ -1,8 +1,29 @@
 ## Avaliação Heurística
 ## Método utilizado
-[breve explicação]
+A inspeção de usabilidade foi realizada por meio da Avaliação Heurística. Os membros da equipe, atuando como inspetores, exploraram o site de forma individual, como usuários comum utilizando um sistema, percorrendo telas, funcionalidade, atividades cadastrais e busca por eventos. Ao longo da avaliação foram encontrados diferentes problemas de usabilidade, de diferentes graus de severidade, relacionado as Heurísticas de Nilsen.
+
+
 ### Heurísticas de Nilsen
 
+### Heurísticas de Nielsen
+
+As heurísticas de Nielsen são dez princípios gerais de usabilidade, propostos por Jakob Nielsen, que servem como critério para identificar problemas na interface de um sistema. Na inspeção, cada problema encontrado foi associado à heurística que melhor o descreve.
+
+### Heurísticas de Nielsen
+
+As heurísticas de Nielsen são dez princípios gerais de usabilidade, propostos por Jakob Nielsen, que servem como critério para identificar problemas na interface de um sistema. Na inspeção, cada problema encontrado foi associado à heurística que melhor o descreve.
+| # | Heurística | Em resumo |
+|---|---|---|
+| H1 | **Visibilidade do status do sistema** | O sistema deve informar ao usuário, em tempo hábil, o que está acontecendo. |
+| H2 | **Compatibilidade do sistema com o mundo real** | A interface deve usar palavras, símbolos e conceitos familiares ao usuário, e não termos técnicos. |
+| H3 | **Controle e liberdade do usuário** | O usuário precisa de uma "saída de emergência" clara para desfazer ações e voltar atrás. |
+| H4 | **Consistência e padrões** | Elementos e ações equivalentes devem ter a mesma aparência e o mesmo nome, seguindo convenções conhecidas. |
+| H5 | **Prevenção de erros** | É melhor evitar que o erro aconteça do que mostrar uma mensagem depois. |
+| H6 | **Reconhecimento ao invés de relembrar** | O usuário não deve precisar memorizar informações. Opções e dados devem estar visíveis ou fáceis de recuperar. |
+| H7 | **Flexibilidade e eficiência de uso** | A interface deve atender tanto iniciantes quanto experientes, com atalhos e caminhos eficientes. |
+| H8 | **Estética e design minimalista** | A interface não deve conter informação irrelevante ou excessiva, que compete com o que importa. |
+| H9 | **Ajudar o usuário a reconhecer, diagnosticar e corrigir erros** | Mensagens de erro devem ser claras, indicar o problema e sugerir uma solução. |
+| H10 | **Ajuda e documentação** | Mesmo que o sistema funcione sem manual, a ajuda deve existir, ser fácil de achar e focada na tarefa. |
 ## Processo de inspeção
 
 ### Registros da avaliação
