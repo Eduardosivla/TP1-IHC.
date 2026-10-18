@@ -1,9 +1,10 @@
-## Avaliação Heurística
-## Método utilizado
+## 📝🖥️ Avaliação Heurística
+## 💡 Método utilizado
 A inspeção de usabilidade foi realizada por meio da Avaliação Heurística. Os membros da equipe, atuando como inspetores, exploraram o site de forma individual, como usuários comum utilizando um sistema, percorrendo telas, funcionalidade, atividades cadastrais e busca por eventos. Ao longo da avaliação foram encontrados diferentes problemas de usabilidade, de diferentes graus de severidade, relacionado as Heurísticas de Nilsen.
 
-### Heurísticas de Nielsen
+---
 
+### 📑 Heurísticas de Nielsen
 As heurísticas de Nielsen são dez princípios gerais de usabilidade, propostos por Jakob Nielsen, que servem como critério para identificar problemas na interface de um sistema. Na inspeção, cada problema encontrado foi associado à heurística que melhor o descreve.
 | # | Heurística | Em resumo |
 |---|---|---|
@@ -18,25 +19,47 @@ As heurísticas de Nielsen são dez princípios gerais de usabilidade, propostos
 | H9 | **Ajudar o usuário a reconhecer, diagnosticar e corrigir erros** | Mensagens de erro devem ser claras, indicar o problema e sugerir uma solução. |
 | H10 | **Ajuda e documentação** | Mesmo que o sistema funcione sem manual, a ajuda deve existir, ser fácil de achar e focada na tarefa. |
 ## Processo de inspeção
+Para encontrar problemas e violações das Heurísticas de Nilsen, foi adotado pela a equipe 5 passos;
+
+#### 📌 Preparação
+Os membros da equipe reuniram-se para definir qual o sistema iria ser inspecionado, o escopo (cadastro, busca de eventos, compra de ingressos, criação de um evento), sendo combinado de ser registrado em tabelas no Notion. Não houve tarefas especificas a serem feitas, cada membro explorou o sistema livremente.
+
+---
+#### ❗Detecção
+Cada membro explorou o sistema **individual e independente**, percorrendo telas e explorando funcionalidades sem roteiro. Cada problema foi resgistrado em tabelas próprias, como ID, localização, descrição do problema, heurística violada e inspetor.
+
+---
+#### 📂 Coleção
+As seis tabelas foram reunidas em somente uma. Problemas relatos por mais de um inspetor foram agrupados em um único registro com descrição consolidada e a lista dos inspetores que encontram.
+
+---
+#### 💬 Discriminação
+Duas pessoas da equipe ficaram responsáveis para a análise dos problemas e em classifica-los como 'defeito' (problema real de usabilidade) ou 'falso positivo' (não confirmado ou que não prejudica a experiência do usuário).Cada problema foi **reproduzido no sistema, discutido entre as pessoas responsáveis, e a heurística principal foi definida e repassada para o restante da equipe**.
+
+---
+#### 🔍 Análise dos resultados
+
+(Fazer tabela dos resumos)
+
+
+
+
+Os registros completos de cada etapa estão nos links abaixo.
+
+---
 
 ### Registros da avaliação
 
 - [Ambiente Notion](https://app.notion.com/p/P-gina-Inicial-do-Espa-o-de-Equipe-6c4f35647f038379a7dc01453ed7ce9f?source=copy_link)
 
-## Etapa 1 - Detecção
-- [Tabela de detecção - Carlos Eduardo](https://app.notion.com/p/6a4f35647f0382c181ac015e7e8d5fe7?v=d37f35647f038308ac4608eb7854abcb&source=copy_link)
-- [Tabela de detecção - Endryw Lucas](https://app.notion.com/p/3f3f35647f0380388d3de36aad430359?v=d37f35647f038308ac4608eb7854abcb&source=copy_link)
-- [Tabela de detecção - Lucas Bina](https://app.notion.com/p/3f3f35647f0380258f48ebb6c25dcfe0?v=d37f35647f038308ac4608eb7854abcb&source=copy_link)
-- [Tabela de detecção - Jean Carlos](https://app.notion.com/p/d81f35647f0383208745813988ad8ba8?v=d37f35647f038308ac4608eb7854abcb&source=copy_link)
-- [Tabela de detecção - Malcon Tavares](https://app.notion.com/p/a2df35647f03826eb32381dd1934248b?v=d37f35647f038308ac4608eb7854abcb&source=copy_link)
-- [Tabela de detecção - Kathleen Carvalho](https://app.notion.com/p/0e0f35647f03828cbfd001c29c61e643?v=d37f35647f038308ac4608eb7854abcb&source=copy_link)
+## 🗂️ Etapa 1 - Detecção 
+- [Tabelas de Detecção](https://app.notion.com/p/Inspe-o-de-Usabilidade-06ef35647f0382ed8516016fc948e5bb?source=copy_link)
 
-
-## Etapa 2 - Coleção
+## 👥 Etapa 2 - Coleção
 - [Coleção](https://app.notion.com/p/f5ff35647f03829b9cae8183bb0e83ca?v=d37f35647f038308ac4608eb7854abcb&source=copy_link)
 
-## Etapa 3 - Discriminação
+## 📄 Etapa 3 - Discriminação
 - [Discriminação](https://app.notion.com/p/4aef35647f0383c184f901456a50ef8d?v=d37f35647f038308ac4608eb7854abcb&source=copy_link)
 
-## Etapa 4 - Relato dos Resultados
+## ❗ Etapa 4 - Relato dos Resultados
 - [Relato dos Resultados](https://app.notion.com/p/3f3f35647f038022aba7fc5bbf6d21d8?v=d37f35647f038308ac4608eb7854abcb&source=copy_link)
