@@ -2,13 +2,6 @@
 ## Método utilizado
 A inspeção de usabilidade foi realizada por meio da Avaliação Heurística. Os membros da equipe, atuando como inspetores, exploraram o site de forma individual, como usuários comum utilizando um sistema, percorrendo telas, funcionalidade, atividades cadastrais e busca por eventos. Ao longo da avaliação foram encontrados diferentes problemas de usabilidade, de diferentes graus de severidade, relacionado as Heurísticas de Nilsen.
 
-
-### Heurísticas de Nilsen
-
-### Heurísticas de Nielsen
-
-As heurísticas de Nielsen são dez princípios gerais de usabilidade, propostos por Jakob Nielsen, que servem como critério para identificar problemas na interface de um sistema. Na inspeção, cada problema encontrado foi associado à heurística que melhor o descreve.
-
 ### Heurísticas de Nielsen
 
 As heurísticas de Nielsen são dez princípios gerais de usabilidade, propostos por Jakob Nielsen, que servem como critério para identificar problemas na interface de um sistema. Na inspeção, cada problema encontrado foi associado à heurística que melhor o descreve.
