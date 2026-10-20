@@ -21,9 +21,23 @@ Para coletar informações sobre a usabilidade e a experiência do usuário, a e
 | **T9** | Avançar a compra até o pagamento | Continue a compra dos ingressos até chegar à etapa em que o site pede o pagamento. Pare antes de pagar. Você não quer contratar nenhum serviço adicional, como seguro, apenas os ingressos. |
 | **T10** | Deixar a página mais fácil de ler | Você tem dificuldade para ler textos pequenos na tela. Faça algum ajuste no site para ele ficar mais confortável de ler. |
 | **T11** | Divulgar um evento | Você organiza eventos e quer divulgar uma festa sua. Comece a criar o evento e deixe-o pronto para ser publicado. |
+
 ---
 
 ### 🛠️ Instrumentos utilizados
+Para a realização do teste, a equipe preparou os instrumentos abaixo, aplicados em todas as sessões na mesma sequência.
+
+---
+
+|Instrumentos|Finalidade| Quando foi aplicado|
+|------------|----------|--------------------|
+| TCLE | Registrar o consentimento do participante | Antes da sessão (em papel) |
+| Questionário de caracterização | Conhecer o perfil do participante | Início do teste, no Maze |
+| Lista de tarefas (T1 a T10) | Observar o uso do sistema em situações reais | Durante o teste, no Maze |
+| Questionário pós-teste (UEQ e 5 perguntas abertas) | Medir a experiência de uso e coletar opiniões | Ao final do teste, no Maze |
+| Registro do observador | Anotar tempo, erros e resultado de cada tarefa | Durante a sessão |
+
+---
 
 ## 2. Teste Piloto
 ### Ajustes realizados
