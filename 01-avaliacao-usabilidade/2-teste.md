@@ -20,8 +20,7 @@ Para coletar informações sobre a usabilidade e a experiência do usuário, a e
 | T6 | Comparar duas opções | Encontre dois eventos de uma mesma categoria. Compare data, local/modalidade e preço; escolha um e explique por quê. |
 | T7 | Verificar detalhes do ingresso | Abra um evento com ingressos disponíveis. Identifique categorias de ingressos, preço e possíveis taxas, sem concluir uma compra. |
 | T8 | Encontrar informações para participar | Escolha um evento presencial e descubra o endereço, o horário de início e as orientações para participação descritas no anúncio. |
-| T9 | Simular uma compra | Após escolher um ingresso, prossiga para a página de pagamento, insira seus dados pessoais e escolha a opção "PIX". Saia da tela assim que a tela de pagamento for apresentada. |
-| T10 | Criar um evento | Crie um evento online, escolha as especificações, preencha os dados corretamente e defina o tipo de ingresso e as especificações solicitadas pelo sistema. |
+| T9 | Criar um evento | Crie um evento online, escolha as especificações, preencha os dados corretamente e defina o tipo de ingresso e as especificações solicitadas pelo sistema. |
 
 ---
 
