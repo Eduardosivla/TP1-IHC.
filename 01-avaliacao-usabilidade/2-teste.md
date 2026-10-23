@@ -3,24 +3,25 @@
 ## 💡 1. Planejamento
 ### Objetivo do teste
 Para coletar informações sobre a usabilidade e a experiência do usuário, a equipe definiu um conjunto de tarefas que representam ações que os usuários normalmente realizam no site, de acordo com a sua finalidade. As tarefas abrangem desde a criação de uma conta e a busca por eventos de interesse até a etapa que antecede o pagamento.
+<br><br>
 
 ---
 
 ### 📑 Tarefas
 
-| Tarefa | Objetivo | Descrição para o participante |
+
+| Tarefa | Objetivo | Descrição |
 |---|---|---|
-| **T1** | Procurar um show | Você está com vontade de sair neste fim de semana e quer ir a um show em Manaus. Encontre um show que tenha te interessado. |
-| **T2** | Encontrar um evento dentro das suas condições | Você só está livre em um dia específico e quer gastar no máximo R$ 50-70. Encontre um evento em Manaus que caiba nessas duas condições. |
-| **T3** | Procurar eventos em outra cidade |Você vai passar o fim de semana em alguma cidade do interior de sua escolha e quer saber se há algum evento por lá. Descubra se existe algum evento nessa cidade.|
-| **T4** | Conhecer os detalhes de um evento | Busque pelo site um evento de seu interesse. Antes de decidir se vai, descubra onde ele acontece, a que horas começa e quais atrações vão se apresentar.|
-| **T5** | Escolher ingressos | Você decidiu ir ao evento com um amigo. Escolha os ingressos mais baratos disponíveis para vocês dois. |
-| **T6** | Descobrir o valor total | Antes de continuar, você quer saber quanto vai gastar no total pelos dois ingressos que escolheu, contando todas as taxas. Descubra esse valor. |
-| **T7** | Guardar um evento para depois | Você ainda não tem certeza se vai ao evento, mas não quer esquecê-lo. Deixe-o guardado para consultar mais tarde e depois mostre onde você o encontraria. |
-| **T8** | Acessar sua conta | Para continuar a compra, você precisa se identificar no site. Entre na sua conta ou, se não tiver uma, crie uma. (O avaliador fornecerá uma conta de teste, se necessário.) |
-| **T9** | Avançar a compra até o pagamento | Continue a compra dos ingressos até chegar à etapa em que o site pede o pagamento. Pare antes de pagar. Você não quer contratar nenhum serviço adicional, como seguro, apenas os ingressos. |
-| **T10** | Deixar a página mais fácil de ler | Você tem dificuldade para ler textos pequenos na tela. Faça algum ajuste no site para ele ficar mais confortável de ler. |
-| **T11** | Divulgar um evento | Você organiza eventos e quer divulgar uma festa sua. Comece a criar o evento e deixe-o pronto para ser publicado. |
+| T1 | Criar uma conta | Comece sem estar conectado. Localize a opção de cadastro e crie uma conta utilizando um e-mail de teste ao qual tenha acesso. |
+| T2 | Entrar e sair da conta | Entre com as credenciais da conta de teste, encontre a área de perfil e saia da conta. |
+| T3 | Pesquisar um evento específico | Encontre um evento de tecnologia digitando termos de busca. Abra uma opção e informe o nome e a data. |
+| T4 | Buscar evento gratuito na cidade | Encontre um evento gratuito na cidade de Manaus. Informe nome, data e se é presencial ou on-line. |
+| T5 | Buscar por data e categoria | Procure um evento cultural ou de entretenimento para um fim de semana futuro. Verifique se a data e o horário atendem ao critério. |
+| T6 | Comparar duas opções | Encontre dois eventos de uma mesma categoria. Compare data, local/modalidade e preço; escolha um e explique por quê. |
+| T7 | Verificar detalhes do ingresso | Abra um evento com ingressos disponíveis. Identifique categorias de ingressos, preço e possíveis taxas, sem concluir uma compra. |
+| T8 | Encontrar informações para participar | Escolha um evento presencial e descubra o endereço, o horário de início e as orientações para participação descritas no anúncio. |
+| T9 | Simular uma compra | Após escolher um ingresso, prossiga para a página de pagamento, insira seus dados pessoais e escolha a opção "PIX". Saia da tela assim que a tela de pagamento for apresentada. |
+| T10 | Criar um evento | Crie um evento online, escolha as especificações, preencha os dados corretamente e defina o tipo de ingresso e as especificações solicitadas pelo sistema. |
 
 ---
 
@@ -37,11 +38,24 @@ Para a realização do teste, a equipe preparou os instrumentos abaixo, aplicado
 | Questionário pós-teste (UEQ e 5 perguntas abertas) | Medir a experiência de uso e coletar opiniões | Ao final do teste, no Maze |
 | Registro do observador | Anotar tempo, erros e resultado de cada tarefa | Durante a sessão |
 
----
 
-## 2. Teste Piloto
-### Ajustes realizados
-[descrição]
+
+## 🚀 2. Teste Piloto
+
+### ⚙️ Ajustes realizados
+Após a aplicação do teste piloto, a equipe revisou o planejamento original e identificou pontos que precisavam ser ajustados antes das sessões oficiais. As alterações realizadas estão descritas a seguir.
+
+🛠️ **Instrumentos de coleta (formulário e questionários).** Durante o piloto, a equipe verificou que a forma de aplicação e de organização dos instrumentos precisava ser adaptada. Por isso, o formulário e os questionários passaram a ser aplicados por meio do Google Forms, com as respostas organizadas em planilhas, o que facilitou a coleta e o tratamento dos dados.
+
+📋 **Tarefas.** A equipe também reformulou as tarefas. No piloto, observou-se que elas eram simples demais para o objetivo do teste: estavam muito diretas e próximas de ações que o usuário já conhece, o que permitia concluí-las com pouco esforço e reduzia a chance de revelar problemas de usabilidade. As tarefas foram reescritas para representar situações mais completas e realistas, com mais de uma condição e etapas encadeadas, sem indicar o caminho a ser seguido pelo participante.
+
+| Aspecto ajustado | Situação identificada no piloto | Alteração realizada |
+|---|---|---|
+| Formulário e questionários | Problemas relacionados a limitação da plataforma Maze e falta de compatibilidade com certos dispositivos | Aplicação via Google Forms, com respostas em planilhas |
+| Tarefas | Tarefas simples, muito diretas e familiares ao usuário | Tarefas reformuladas, mais completas e em sequência |
+
+Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram a versão revisada dos instrumentos e das tarefas.
+<br><br>
 
 
 ## 3. Execução
