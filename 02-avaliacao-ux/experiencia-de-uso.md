@@ -96,7 +96,6 @@ Em contrapartida, os aspetos que mais agradaram aos utilizadores (barras à dire
 
 <br>
 
----
 
 ## 🔎 4. Análise Qualitativa
 
@@ -108,7 +107,6 @@ A análise qualitativa teve como objetivo compreender as razões subjacentes aos
 
 ---
 
-<br>
 
 ### 💬 4.1 Respostas abertas analisadas
 
@@ -133,6 +131,9 @@ Os dados que serviram de base para a nossa análise qualitativa foram as respost
 
 <br>
 
+---
+
+
 ### ⚙️ 4.2 Processo de codificação Atlas.ti
 
 <div align="justify">
@@ -146,6 +147,7 @@ Para o processo de *feedback*, foram importadas as respostas abertas de cada usu
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/291441e7-f09b-4871-9bb8-26fdf0d7707a" />
 
 *Figura 2: Justificativa da criação dos códigos baseado nas respostas dos participantes*
+
 
 ---
 
@@ -187,10 +189,13 @@ Durante a análise no Atlas.ti, foram criados 9 códigos para categorizar cada p
 ### 🌐 4.4 Redes construídas no ATLAS.ti
 Para visualizar o impacto real dos problemas relatados na percepção dos usuários, construímos um mapa conceitual (Rede) no ATLAS.ti. O objetivo dessa rede foi cruzar os dados qualitativos (os códigos de problemas que identificamos nos relatos) com os dados quantitativos (as 6 dimensões de usabilidade avaliadas pelo questionário UEQ).
 
+<br>
 
-<img height="500" alt="Fatores de Usabilidade" src="https://github.com/user-attachments/assets/cf0e83ea-6f34-4e34-9292-602615d7fd31" />
+![Rede Dimensões](<Fatores de Usabilidade.png>)
 
 *Figura 4: Rede Dimensões UEQ: Atlas.ti*
+
+---
 
 - Na estrutura do mapa, as dimensões do UEQ (*Atratividade, Perspicuidade, Eficiência, Novidade, Confiabilidade e Estimulação*) foram posicionadas como o núcleo central. A partir delas, conectamos as dificuldades apontadas pelos participantes, demonstrando visualmente como uma única falha de interface pode desencadear um "efeito dominó" que prejudica toda a experiência de uso.
 
