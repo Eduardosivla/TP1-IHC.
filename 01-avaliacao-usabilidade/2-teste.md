@@ -89,7 +89,7 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 
 ### Evidências
 
-![Participante 00 realizando o teste piloto](image.png)
+[Participante 00 realizando o teste piloto](https://github.com/user-attachments/assets/20d72a91-2a65-46e2-bec5-d171ee14a85d)
 ![Participanete 01 realizando o teste](image-1.png)
 ![Participante 02 realizando o teste](image-2.png)
 ![Participante 03 realizando o teste](image-3.png)
