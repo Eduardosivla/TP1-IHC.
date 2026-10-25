@@ -46,7 +46,7 @@ As respostas obtidas foram inseridas na ferramenta oficial de análise de dados 
 
 ### Gráfico 1 - Médias das Dimensões (Escalas)
 
-![Média das Dimensões](<img height="250" alt="WhatsApp Image 2026-10-25 at 00 29 04" src="https://github.com/user-attachments/assets/3bf3d272-282e-4676-88f7-00abcd391284"/>)<br>
+![Média das Dimensões](<img width="256" height="335" alt="image" src="https://github.com/user-attachments/assets/fdcaba18-7e1f-427c-8642-50b4ba2f18a3" />)<br>
 
 <div align="justify">
 
@@ -72,7 +72,9 @@ A dimensão **Confiabilidade** (*Dependability*) foi a melhor avaliada, embora a
 
 ### Gráfico 2 - Valores Médios por Item
 
-![Valores Médios](<img height="500" alt="WhatsApp Image 2026-10-25 at 00 29 03" src="https://github.com/user-attachments/assets/2b704a65-229e-49c2-8c39-a7da5e5f79e6"/>))<br>
+![Valores Médios](<img width="435" height="420" alt="image" src="https://github.com/user-attachments/assets/9765aeb1-8cbc-4346-9142-efe5d697eee6" />)
+
+<br>
 
 <div align="justify">
 
