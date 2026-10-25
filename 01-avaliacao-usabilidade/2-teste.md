@@ -38,6 +38,7 @@ Para a realização do teste, a equipe preparou os instrumentos abaixo, aplicado
 | Registro do observador | Anotar tempo, erros e resultado de cada tarefa | Durante a sessão |
 
 
+---
 
 ## 🚀 2. Teste Piloto
 
@@ -64,16 +65,16 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 <br><br>
 
 
-## 3. Execução
+## 💻 3. Execução
 ### Evidências
 
 ![Participante realizando o teste]()
 *Figura 1 - Participante P01 durante a realização do teste*
 
 
-## 4. Análise dos Resultados
+## 📊 4. Análise dos Resultados
 
-### 4.1 Resultados por participante
+### 📝👤 4.1 Resultados por participante
 
 **Participante P1**
 
@@ -89,6 +90,8 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 | T9 - Simular uma compra | 0.00 | ✗ | 0 | O usuário recusou-se a pôr dados pessoais no site |
 | T10 - Criar um evento | 78.50 | ✗ | 5 | O usuário tentou encontrar a função de criar um evento, porém não obteve sucesso |
 
+---
+
 **Participante P2**
 
 | Tarefa | Tempo (s) | Resultado | Erros | Observações |
@@ -102,6 +105,8 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 | T8 - Encontrar informações para participar | 10.18 | ✓ | 0 | Sem dificuldades. As informações estavam bem visíveis. |
 | T9 - Simular uma compra | 0.00 | ✗ | 0 | O usuário não quis simular a compra pelo uso de dados pessoais. |
 | T10 - Criar um evento | 66.00 | ✗ | 4 | O usuário não encontrou a função. |
+
+---
 
 **Participante P3**
 
@@ -119,6 +124,8 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 | T9 - Simular uma compra | - | - | - | - |
 | T10 - Criar um evento | - | - | - | - |
 
+---
+
 **Participante P4**
 
 | Tarefa | Tempo (s) | Resultado | Erros | Observações |
@@ -132,6 +139,8 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 | T8 - Encontrar informações para participar | 16.76 | ✓ | 0 | Não apresentou dificuldades |
 | T9 - Simular uma compra | 17.64 | ✓ | 0 | Concluiu a compra sem dificuldades |
 | T10 - Criar um evento | 220.48 | ✓ | 6 | Erros do usuário foram ocausionados por falta de feedback, clareza e instruções mais visiveis. |
+
+---
 
 **Participante P5**
 
@@ -147,6 +156,8 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 | T9 - Simular uma compra | 31.00 | ✓ | 0 | Não houve erros |
 | T10 - Criar um evento | 260.82 | ! | 7 | O usuário estava com dificuldade em localizar quais campos faltavam serem preenchidos |
 
+---
+
 **Participante P6**
 
 | Tarefa | Tempo (s) | Resultado | Erros | Observações |
@@ -161,6 +172,8 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 | T9 - Simular uma compra | 40.57 | ✓ | 0 | Sem dificuldades |
 | T10 - Criar um evento | 257.95 | ✓ | 0 | Nenhum erro, nenhuma dificuldade aparente. |
 
+---
+
 **Participante P7**
 
 | Tarefa | Tempo (s) | Resultado | Erros | Observações |
@@ -174,6 +187,8 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 | T8 - Encontrar informações para participar | 26.05 | ! | 1 | Algumas dificuldades para localizar |
 | T9 - Simular uma compra | 141.77 | ✓ | 0 | Concluiu sem dificuldade |
 | T10 - Criar um evento | 467.27 | ! | 5 | Concluiu, mas com erros relacionados aos campos de informações do site. |
+
+---
 
 **Participante P8**
 
@@ -191,7 +206,9 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 | T9 - Simular uma compra | - | - | - | - |
 | T10 - Criar um evento | - | - | - | - |
 
-### 4.2 Resumo por participante
+---
+
+### 📋 4.2 Resumo por participante
 
 | Participante | Sucesso ✓ | Com dificuldade ! | Insucesso ✗ | Tempo Total (s) | Total Erros |
 | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -204,7 +221,9 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 | P7 | 4 | 5 | 0 | 875.61 | 9 |
 | P8 | 0 | 0 | 0 | 0.00 | 0 |
 
-### 4.3 Consolidação por tarefa
+---
+
+### ✅ 4.3 Consolidação por tarefa
 
 | Tarefa | TSR - Taxa de Sucesso (%) | TTR - Tempo Médio da Tarefa (s) |
 | :--- | :---: | :---: |
@@ -217,11 +236,29 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 | T8 - Encontrar informações para participar | 37.50% | 18.02 |
 | T9 - Simular uma compra | 50.00% | 28.87 |
 | T10 - Criar um evento | 25.00% | 168.88 |
-### Respostas abertas e fatores de usabilidade
 
-| NOME      |     Bla    |
-|-----------|------------|
+---
 
-### Considerações sobre o Teste de Usabilidade
+### 4.4 Respostas abertas e fatores de usabilidade
+
+Depois de finalizar o teste prático, os usuários responderam a algumas perguntas abertas para contar o que acharam do sistema. A tabela abaixo resume as maiores dificuldades encontradas e as sugestões de cada um, mantendo exatamente as palavras que eles usaram no formulário:
+
+---
+
+| Participante | Etapa com mais dificuldade | Usaria Novamente? | Mudança que faria para melhorar a experiência (Respostas originais) |
+| :--- | :--- | :---: | :--- |
+| **P1** | Favoritar um evento. | Sim | Acessibilidade |
+| **P2** | favoritação do evento | Talvez | deixa as funções mais visiveis |
+| **P3** | Filtros de pesquisa Favoritar o evento | Talvez | Colocaria os eventos que estão sendo mais vendidos como destaque e colocaria a opção de favoritar. |
+| **P4** | Filtros de pesquisa. | Sim | Começão de eros nos filtros de busca, maior coerência com a botão de favoritos do site, melhor validação em tempo real de informações, um modo escuro |
+| **P5** | Fazer o Evento | Talvez | A forma de Fazer evento Online |
+| **P6** | Pagina de detalhes do evento | Talvez | deixaria a interface mais simples |
+| **P7** | Filtros de pesquisa. | Talvez | Ajustaria o processo de cadastro na plataforma, que no momento se encontra dividido em duas etapas e deixa o usuário bem confuso se realmente a conta foi criada ou não. Também ajustaria a parte de pesquisa de eventos na plataforma, pois a funcionalidade de aplicação de filtros fica "escondida" |
+| **P8** | Página de detalhes do evento. Campo de busca | Não | Tela cheia de informações, confunderm a gente kkk. Organização das categorias |
+
+---
+
+### 📌 Considerações sobre o Teste de Usabilidade
+A execução do Teste de Usabilidade revelou insights importantes sobre a forma como os utilizadores interagem com a plataforma Sympla, evidenciando tanto pontos de fluidez como obstáculos significativos na interface. De forma geral, constatou-se que tarefas de navegação simples apresentam um bom desempenho, enquanto ações que exigem preenchimento de formulários ou uso de filtros complexos geram frustração e altas taxas de erro.
 
 
