@@ -1,4 +1,7 @@
 # Avaliação de Acessibilidade
+
+<div align="justify">
+  
 [Texto]
 
 ## Escopo da avaliação
@@ -27,3 +30,5 @@ Explicar o que a tabela apresenta e discutir os resultados observados.
 
 ## Considerações sobre os resultados
 Apresentar uma breve discussão sobre os principais resultados da avaliação
+
+<div>
