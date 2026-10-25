@@ -1,5 +1,8 @@
 ## 📝🖥️ Avaliação Heurística
 ## 💡 Método utilizado
+
+<div align="justify">
+  
 A inspeção de usabilidade foi realizada por meio da Avaliação Heurística. Os membros da equipe, atuando como inspetores, exploraram o site de forma individual, como usuários comum utilizando um sistema, percorrendo telas, funcionalidade, atividades cadastrais e busca por eventos. Ao longo da avaliação foram encontrados diferentes problemas de usabilidade, de diferentes graus de severidade, relacionado as Heurísticas de Nilsen.
 
 ---
@@ -63,3 +66,5 @@ Os registros completos de cada etapa estão nos links abaixo.
 
 ## ❗ Etapa 4 - Relato dos Resultados
 - [Relato dos Resultados](https://app.notion.com/p/3f3f35647f038022aba7fc5bbf6d21d8?v=d37f35647f038308ac4608eb7854abcb&source=copy_link)
+
+<div>
