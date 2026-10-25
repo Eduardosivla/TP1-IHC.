@@ -34,7 +34,10 @@ As respostas obtidas foram inseridas na ferramenta oficial de análise de dados 
 
 <br>
 
-![Resultados Gerais](<img width="306" height="140" alt="image" src="https://github.com/user-attachments/assets/08f4c72a-334d-4825-8049-cb2917f2184b"/>)
+---
+
+<img height="144" alt="image" src="https://github.com/user-attachments/assets/3b38927d-64a7-478a-aec5-69b104a70744" />
+
 
 *Figura 1 - Resultados gerais das dimensões avaliadas pelo UEQ*
 
@@ -46,9 +49,12 @@ As respostas obtidas foram inseridas na ferramenta oficial de análise de dados 
 
 ### Gráfico 1 - Médias das Dimensões (Escalas)
 
-<img width="256" height="335" alt="image" src=https://github.com/user-attachments/assets/fdcaba18-7e1f-427c-8642-50b4ba2f18a3"/>
+<img height="419" alt="image" src="https://github.com/user-attachments/assets/183602a7-a72c-4a80-8f6c-8e7a2bacf24c" />
+
 
 <div align="justify">
+
+<br>
 
 O gráfico acima apresenta as pontuações médias para cada uma das seis dimensões do UEQ, juntamente com as respetivas barras de erro (intervalos de confiança). Considerando que a faixa amarela entre -0,8 e 0,8 representa uma avaliação essencialmente "neutra", observa-se que o desempenho geral do Sympla não conseguiu atingir a zona verde de avaliações positivas em nenhuma categoria.
 
@@ -72,12 +78,13 @@ A dimensão **Confiabilidade** (*Dependability*) foi a melhor avaliada, embora a
 
 ### Gráfico 2 - Valores Médios por Item
 
-![Valores Médios](<img width="435" height="420" alt="image" src="https://github.com/user-attachments/assets/9765aeb1-8cbc-4346-9142-efe5d697eee6" />)
-
-<br>
+<img height="346" alt="image" src="https://github.com/user-attachments/assets/cc5adb2c-cfc0-416e-a5bf-ab5f55e79021"/>
+<img height="346" alt="image" src="https://github.com/user-attachments/assets/3ecdcda2-aadb-40b5-88e7-1e12afde3bd9"/>
 
 <div align="justify">
-
+  
+<br>
+  
 Este gráfico oferece uma visão mais granular, decompondo as dimensões e mostrando a avaliação exata dos utilizadores para cada um dos 26 pares de adjetivos opostos do questionário (ex: *confusing/clear*, *slow/fast*).
 
 </div>
@@ -146,7 +153,7 @@ Para o processo de *feedback*, foram importadas as respostas abertas de cada usu
 
 <br>
 
-<img width="743" height="447" alt="Captura de tela 2026-10-25 192048" src="https://github.com/user-attachments/assets/c699c5bc-b6fd-4f6a-84c4-bbc6d57b4ab9" />
+<img height="300" alt="Captura de tela 2026-10-25 192048" src="https://github.com/user-attachments/assets/c699c5bc-b6fd-4f6a-84c4-bbc6d57b4ab9" />
 
 
 *Figura 2: Justificativa da criação dos códigos baseado nas respostas dos participantes*
@@ -180,6 +187,7 @@ Durante a análise no Atlas.ti, foram criados 9 códigos para categorizar cada p
 <br>
 
 
+<img height="389" alt="Captura de tela 2026-10-25 192542" src="https://github.com/user-attachments/assets/53468561-ab75-4a1c-a3a0-cd6fd9a58744" />
 
 *Figura 3: Códigos de categorização*
 
@@ -194,7 +202,7 @@ Para visualizar o impacto real dos problemas relatados na percepção dos usuár
 
 <br>
 
-![Rede Dimensões](<Fatores de Usabilidade.png>)
+<img height="800" alt="Fatores de Usabilidade" src="https://github.com/user-attachments/assets/16e0ab7d-c4e4-4769-a84c-0c685f0cb99e" />
 
 *Figura 4: Rede Dimensões UEQ: Atlas.ti*
 
