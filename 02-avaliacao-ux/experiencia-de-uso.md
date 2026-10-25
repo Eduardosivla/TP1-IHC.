@@ -146,7 +146,8 @@ Para o processo de *feedback*, foram importadas as respostas abertas de cada usu
 
 <br>
 
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/291441e7-f09b-4871-9bb8-26fdf0d7707a" />
+<img width="743" height="447" alt="Captura de tela 2026-10-25 192048" src="https://github.com/user-attachments/assets/c699c5bc-b6fd-4f6a-84c4-bbc6d57b4ab9" />
+
 
 *Figura 2: Justificativa da criação dos códigos baseado nas respostas dos participantes*
 
@@ -178,7 +179,7 @@ Durante a análise no Atlas.ti, foram criados 9 códigos para categorizar cada p
 
 <br>
 
-<img height="350" alt="image" src="https://github.com/user-attachments/assets/1aada594-0111-4e0f-8de8-62cf6e7266bb" />
+
 
 *Figura 3: Códigos de categorização*
 
