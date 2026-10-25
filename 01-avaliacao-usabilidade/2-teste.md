@@ -44,9 +44,16 @@ Para a realização do teste, a equipe preparou os instrumentos abaixo, aplicado
 ### ⚙️ Ajustes realizados
 Após a aplicação do teste piloto, a equipe revisou o planejamento original e identificou pontos que precisavam ser ajustados antes das sessões oficiais. As alterações realizadas estão descritas a seguir.
 
+---
+
 🛠️ **Instrumentos de coleta (formulário e questionários).** Durante o piloto, a equipe verificou que a forma de aplicação e de organização dos instrumentos precisava ser adaptada. Por isso, o formulário e os questionários passaram a ser aplicados por meio do Google Forms, com as respostas organizadas em planilhas, o que facilitou a coleta e o tratamento dos dados.
 
+---
+
 📋 **Tarefas.** A equipe também reformulou as tarefas. No piloto, observou-se que elas eram simples demais para o objetivo do teste: estavam muito diretas e próximas de ações que o usuário já conhece, o que permitia concluí-las com pouco esforço e reduzia a chance de revelar problemas de usabilidade. As tarefas foram reescritas para representar situações mais completas e realistas, com mais de uma condição e etapas encadeadas, sem indicar o caminho a ser seguido pelo participante.
+
+---
+<br>
 
 | Aspecto ajustado | Situação identificada no piloto | Alteração realizada |
 |---|---|---|
@@ -63,22 +70,153 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 ![Participante realizando o teste]()
 *Figura 1 - Participante P01 durante a realização do teste*
 
+
 ## 4. Análise dos Resultados
 
-| NOME      |     Blaa    |
-|-----------|------------|
+### 4.1 Resultados por participante
 
+**Participante P1**
 
-### Resumo por participante
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1 - Criar uma conta | 40.45 | ✓ | 0 | Sem erros do usuário. Tarefa simples utilizando atalhos do sistema |
+| T2 - Entrar e sair da conta | 20.10 | ✓ | 0 | Sem erros |
+| T3 - Pesquisar um evento específico | 20.63 | ✗ | 3 | O usuário não conseguiu identificar se a barra de pesquisa era função da busca do evento ou da cidade, por mais que tivesse instruções |
+| T4 - Buscar evento gratuito na cidade | 35.19 | ! | - | Ao tentar buscar o evento, junto a cidade, o usuário cometeu um erro: digitou o nome da cidade do evento onde deveria ser o tipo. |
+| T5 - Buscar por data e categoria | 43.77 | ! | 4 | Foi executado a ação de aplicar filtros, porém o usuário não recebeu feedback se foram aplicados, levando o mesmo a executar a tarefa mais de uma vez para ter a certeza. |
+| T7 - Verificar detalhes do ingresso | 16.85 | ✓ | 0 | A tarefa foi realiza com êxito. |
+| T8 - Encontrar informações para participar | 18.44 | ! | 1 | A tarefa foi realizada e finalizada, porém com alguns atrasos relacionados a organização de detalhes, no site. |
+| T9 - Simular uma compra | 0.00 | ✗ | 0 | O usuário recusou-se a pôr dados pessoais no site |
+| T10 - Criar um evento | 78.50 | ✗ | 5 | O usuário tentou encontrar a função de criar um evento, porém não obteve sucesso |
 
-| NOME      |     Bla    |
-|-----------|------------|
+**Participante P2**
 
-### Consolidação por tarefa
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1 - Criar uma conta | 18.72 | ✓ | 0 | Concluiu sem dificuldades |
+| T2 - Entrar e sair da conta | 25.00 | ! | 1 | Demorou para encontrar a função |
+| T3 - Pesquisar um evento específico | 30.08 | ✓ | 0 | Sem dificuldades |
+| T4 - Buscar evento gratuito na cidade | 20.10 | ✓ | 0 | Sem dificuldades |
+| T5 - Buscar por data e categoria | 34.00 | ✗ | 3 | O usuário não aplicou os filtros. |
+| T7 - Verificar detalhes do ingresso | 37.66 | ! | 1 | Houve um erro no momento de adicionar a quantidade de ingressos. O sistema não indicou que era necessário especificar a quantia |
+| T8 - Encontrar informações para participar | 10.18 | ✓ | 0 | Sem dificuldades. As informações estavam bem visíveis. |
+| T9 - Simular uma compra | 0.00 | ✗ | 0 | O usuário não quis simular a compra pelo uso de dados pessoais. |
+| T10 - Criar um evento | 66.00 | ✗ | 4 | O usuário não encontrou a função. |
 
-| NOME      |     Bla    |
-|-----------|------------|
+**Participante P3**
 
+*(Aguardando dados)*
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1 - Criar uma conta | - | - | - | - |
+| T2 - Entrar e sair da conta | - | - | - | - |
+| T3 - Pesquisar um evento específico | - | - | - | - |
+| T4 - Buscar evento gratuito na cidade | - | - | - | - |
+| T5 - Buscar por data e categoria | - | - | - | - |
+| T7 - Verificar detalhes do ingresso | - | - | - | - |
+| T8 - Encontrar informações para participar | - | - | - | - |
+| T9 - Simular uma compra | - | - | - | - |
+| T10 - Criar um evento | - | - | - | - |
+
+**Participante P4**
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1 - Criar uma conta | 40.42 | ! | 1 | Algumas hesistações em relação a localização da função |
+| T2 - Entrar e sair da conta | 26.79 | ✓ | 0 | Concluiu com exito, porém não entendeu o feedback do sistema |
+| T3 - Pesquisar um evento específico | 21.93 | ✓ | 0 | Conclui sem dificuldades. |
+| T4 - Buscar evento gratuito na cidade | 10.80 | ✓ | 0 | Encontrou sem problemas |
+| T5 - Buscar por data e categoria | 33.93 | ✓ | 0 | Concluiu com êxito, só com indecisão ao selecionar datas |
+| T7 - Verificar detalhes do ingresso | 6.44 | ✓ | 0 | Concluiu sem dificuldades |
+| T8 - Encontrar informações para participar | 16.76 | ✓ | 0 | Não apresentou dificuldades |
+| T9 - Simular uma compra | 17.64 | ✓ | 0 | Concluiu a compra sem dificuldades |
+| T10 - Criar um evento | 220.48 | ✓ | 6 | Erros do usuário foram ocausionados por falta de feedback, clareza e instruções mais visiveis. |
+
+**Participante P5**
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1 - Criar uma conta | 64.58 | ! | 1 | Escolheu um caminho mais longo |
+| T2 - Entrar e sair da conta | 36.69 | ! | 1 | O mesmo, na primeira vez, entrou pelo e-mail. Ao entrar novamente na conta, trocou a opção pela do google |
+| T3 - Pesquisar um evento específico | 37.24 | ✓ | 1 | Especificou a cidade no lugar errado e não nos fltros |
+| T4 - Buscar evento gratuito na cidade | - | - | - | - |
+| T5 - Buscar por data e categoria | 54.40 | ! | 2 | Concluiu, mas com algumas dificuldades em achar os filtros |
+| T7 - Verificar detalhes do ingresso | 18.50 | ✓ | 0 | Sem dificuldades em localizar |
+| T8 - Encontrar informações para participar | 53.62 | ! | 1 | Concluiu, mas com dificuldades em localizar |
+| T9 - Simular uma compra | 31.00 | ✓ | 0 | Não houve erros |
+| T10 - Criar um evento | 260.82 | ! | 7 | O usuário estava com dificuldade em localizar quais campos faltavam serem preenchidos |
+
+**Participante P6**
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1 - Criar uma conta | 82.09 | ✓ | 0 | Tempo longo por demora de resposta do sistema |
+| T2 - Entrar e sair da conta | 126.82 | ! | 1 | Erro ao entrar na conta: é pedido uma senha, mas ela nunca foi informada, assim levando o usuário ao erro |
+| T3 - Pesquisar um evento específico | 76.18 | ! | 0 | Realizou sem erros. |
+| T4 - Buscar evento gratuito na cidade | 60.86 | ✓ | 0 | Sem erros. Utilizou o filtro e a barra de pesquisa corretamente. |
+| T5 - Buscar por data e categoria | 58.78 | ! | 2 | Erros sob má funcionalidade do sistema |
+| T7 - Verificar detalhes do ingresso | 13.05 | ✓ | 0 | Sem dificuldades |
+| T8 - Encontrar informações para participar | 19.09 | ✓ | 0 | Sem dificuldades |
+| T9 - Simular uma compra | 40.57 | ✓ | 0 | Sem dificuldades |
+| T10 - Criar um evento | 257.95 | ✓ | 0 | Nenhum erro, nenhuma dificuldade aparente. |
+
+**Participante P7**
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1 - Criar uma conta | 52.46 | ✓ | 0 | Sem erros. |
+| T2 - Entrar e sair da conta | 10.79 | ! | 1 | Não notou que a conta tinha sido deslogada e continuou assim |
+| T3 - Pesquisar um evento específico | 23.88 | ✓ | 0 | Sem erros. |
+| T4 - Buscar evento gratuito na cidade | 66.06 | ! | 1 | Demorou ao identificar se o evento era gratuito |
+| T5 - Buscar por data e categoria | 60.94 | ! | 1 | Concluiu, mas aplicou "Eventos gratuitos" na barra de pesquisa e não aos filtros. |
+| T7 - Verificar detalhes do ingresso | 26.39 | ✓ | 0 | Sem dificuldades |
+| T8 - Encontrar informações para participar | 26.05 | ! | 1 | Algumas dificuldades para localizar |
+| T9 - Simular uma compra | 141.77 | ✓ | 0 | Concluiu sem dificuldade |
+| T10 - Criar um evento | 467.27 | ! | 5 | Concluiu, mas com erros relacionados aos campos de informações do site. |
+
+**Participante P8**
+
+*(Aguardando dados)*
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+| :--- | :---: | :---: | :---: | :--- |
+| T1 - Criar uma conta | - | - | - | - |
+| T2 - Entrar e sair da conta | - | - | - | - |
+| T3 - Pesquisar um evento específico | - | - | - | - |
+| T4 - Buscar evento gratuito na cidade | - | - | - | - |
+| T5 - Buscar por data e categoria | - | - | - | - |
+| T7 - Verificar detalhes do ingresso | - | - | - | - |
+| T8 - Encontrar informações para participar | - | - | - | - |
+| T9 - Simular uma compra | - | - | - | - |
+| T10 - Criar um evento | - | - | - | - |
+
+### 4.2 Resumo por participante
+
+| Participante | Sucesso ✓ | Com dificuldade ! | Insucesso ✗ | Tempo Total (s) | Total Erros |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| P1 | 3 | 3 | 3 | 273.93 | 13 |
+| P2 | 4 | 2 | 3 | 241.74 | 9 |
+| P3 | 0 | 0 | 0 | 0.00 | 0 |
+| P4 | 8 | 1 | 0 | 395.19 | 7 |
+| P5 | 3 | 5 | 0 | 556.85 | 13 |
+| P6 | 6 | 3 | 0 | 735.39 | 3 |
+| P7 | 4 | 5 | 0 | 875.61 | 9 |
+| P8 | 0 | 0 | 0 | 0.00 | 0 |
+
+### 4.3 Consolidação por tarefa
+
+| Tarefa | TSR - Taxa de Sucesso (%) | TTR - Tempo Médio da Tarefa (s) |
+| :--- | :---: | :---: |
+| T1 - Criar uma conta | 50.00% | 37.34 |
+| T2 - Entrar e sair da conta | 25.00% | 30.77 |
+| T3 - Pesquisar um evento específico | 50.00% | 26.24 |
+| T4 - Buscar evento gratuito na cidade | 37.50% | 24.13 |
+| T5 - Buscar por data e categoria | 12.50% | 35.73 |
+| T7 - Verificar detalhes do ingresso | 62.50% | 14.86 |
+| T8 - Encontrar informações para participar | 37.50% | 18.02 |
+| T9 - Simular uma compra | 50.00% | 28.87 |
+| T10 - Criar um evento | 25.00% | 168.88 |
 ### Respostas abertas e fatores de usabilidade
 
 | NOME      |     Bla    |
