@@ -12,9 +12,9 @@ O teste foi organizado como uma sequência de blocos que o participante percorre
 
 </div>
 
-<img height="500" alt="Blocos do Maze: aviso e questionário de caracterização" src="https://github.com/user-attachments/assets/e619a7fb-839a-47d9-b4e8-ed91eec8dc13" />
+![Blocos Maze](<img height="500" alt="Blocos do Maze: aviso e questionário de caracterização" src="https://github.com/user-attachments/assets/e619a7fb-839a-47d9-b4e8-ed91eec8dc13"/>)
 
-<img height="500" alt="Blocos do Maze: fim do questionário, telas de contexto, pós-teste e UEQ" src="https://github.com/user-attachments/assets/8181a3cc-09f6-41ea-8914-d82de8d8e866" />
+![Blocos Maze](<img height="500" alt="Blocos do Maze: fim do questionário, telas de contexto, pós-teste e UEQ" src="https://github.com/user-attachments/assets/8181a3cc-09f6-41ea-8914-d82de8d8e866"/>)
 
 <br><br>
 
