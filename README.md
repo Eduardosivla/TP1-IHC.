@@ -12,7 +12,7 @@
 - Endryw Lucas
 - Jean Carlos S.
 
-  
+
 ## :mag: Sobre o Sistema
 
 <p align="justify">
