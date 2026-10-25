@@ -46,7 +46,7 @@ As respostas obtidas foram inseridas na ferramenta oficial de análise de dados 
 
 ### Gráfico 1 - Médias das Dimensões (Escalas)
 
-![Média das Dimensões](<img width="256" height="335" alt="image" src="https://github.com/user-attachments/assets/fdcaba18-7e1f-427c-8642-50b4ba2f18a3" />)<br>
+<img width="256" height="335" alt="image" src=https://github.com/user-attachments/assets/fdcaba18-7e1f-427c-8642-50b4ba2f18a3"/>
 
 <div align="justify">
 
