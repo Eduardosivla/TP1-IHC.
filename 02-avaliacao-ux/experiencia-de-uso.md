@@ -34,17 +34,19 @@ As respostas obtidas foram inseridas na ferramenta oficial de análise de dados 
 
 <br>
 
-<img width="306" height="140" alt="image" src="https://github.com/user-attachments/assets/08f4c72a-334d-4825-8049-cb2917f2184b"/>
+![Resultados Gerais](<img width="306" height="140" alt="image" src="https://github.com/user-attachments/assets/08f4c72a-334d-4825-8049-cb2917f2184b"/>)
 
 *Figura 1 - Resultados gerais das dimensões avaliadas pelo UEQ*
 
 ---
 
+<br>
+
 ## 📈 3. Análise Quantitativa
 
-#### Gráfico 1 - Médias das Dimensões (Escalas)
+### Gráfico 1 - Médias das Dimensões (Escalas)
 
-<img height="250" alt="WhatsApp Image 2026-10-25 at 00 29 04" src="https://github.com/user-attachments/assets/3bf3d272-282e-4676-88f7-00abcd391284"/><br>
+![Média das Dimensões](<img height="250" alt="WhatsApp Image 2026-10-25 at 00 29 04" src="https://github.com/user-attachments/assets/3bf3d272-282e-4676-88f7-00abcd391284"/>)<br>
 
 <div align="justify">
 
@@ -54,7 +56,9 @@ O gráfico acima apresenta as pontuações médias para cada uma das seis dimens
 
 <br>
 
-**Resultados Observados:**
+---
+
+### Resultados Observados:
 
 <div align="justify">
 
@@ -64,9 +68,11 @@ A dimensão **Confiabilidade** (*Dependability*) foi a melhor avaliada, embora a
 
 ---
 
-#### Gráfico 2 - Valores Médios por Item
+<br>
 
-<img height="500" alt="WhatsApp Image 2026-10-25 at 00 29 03" src="https://github.com/user-attachments/assets/2b704a65-229e-49c2-8c39-a7da5e5f79e6"/><br>
+### Gráfico 2 - Valores Médios por Item
+
+![Valores Médios](<img height="500" alt="WhatsApp Image 2026-10-25 at 00 29 03" src="https://github.com/user-attachments/assets/2b704a65-229e-49c2-8c39-a7da5e5f79e6"/>))<br>
 
 <div align="justify">
 
@@ -76,7 +82,9 @@ Este gráfico oferece uma visão mais granular, decompondo as dimensões e mostr
 
 <br>
 
-**Resultados Observados:**
+--- 
+
+### Resultados Observados:
 
 <div align="justify">
 
@@ -85,6 +93,8 @@ A análise item a item permite-nos identificar os pontos críticos exatos que pr
 Em contrapartida, os aspetos que mais agradaram aos utilizadores (barras à direita) foram relacionados com o tom da plataforma. O sistema foi considerado **"bom"** (*bad/good*) e **"amigável"** (*unfriendly/friendly*), com pontuações próximas de +0,8. Os utilizadores também o avaliaram de forma positiva nos itens **"interessante"** e **"fácil de aprender"**, o que demonstra que, apesar da lentidão e do design datado, a proposta de valor do Sympla ainda consegue cativar a atenção inicial do público.
 
 </div>
+
+<br>
 
 ---
 
@@ -97,6 +107,8 @@ A análise qualitativa teve como objetivo compreender as razões subjacentes aos
 </div>
 
 ---
+
+<br>
 
 ### 💬 4.1 Respostas abertas analisadas
 
@@ -119,6 +131,8 @@ Os dados que serviram de base para a nossa análise qualitativa foram as respost
 
 ---
 
+<br>
+
 ### ⚙️ 4.2 Processo de codificação Atlas.ti
 
 <div align="justify">
@@ -134,6 +148,8 @@ Para o processo de *feedback*, foram importadas as respostas abertas de cada usu
 *Figura 2: Justificativa da criação dos códigos baseado nas respostas dos participantes*
 
 ---
+
+<br>
 
 ### 🏷️ 4.3 Códigos identificados 
 
@@ -151,7 +167,6 @@ Durante a análise no Atlas.ti, foram criados 9 códigos para categorizar cada p
 | **Problemas nos filtros de pesquisa** | (3) |
 | **Sugestão de novas funcionalidades** | (2) |
 | **Dificuldade em favoritar/guardar um evento** | (1) |
-| **Dificuldade em favoritar/guardar evento** | (1) |
 | **Dificuldade na criação/divulgação de eventos.** | (1) |
 | **Falta de validação em tempo real** | (1) |
 | **Má organização de categorias.** | (1) |
@@ -166,6 +181,28 @@ Durante a análise no Atlas.ti, foram criados 9 códigos para categorizar cada p
 <br>
 
 <div align="justify">
+
+<br>
+
+### 🌐 4.4 Redes construídas no ATLAS.ti
+Para visualizar o impacto real dos problemas relatados na percepção dos usuários, construímos um mapa conceitual (Rede) no ATLAS.ti. O objetivo dessa rede foi cruzar os dados qualitativos (os códigos de problemas que identificamos nos relatos) com os dados quantitativos (as 6 dimensões de usabilidade avaliadas pelo questionário UEQ).
+
+
+<img height="500" alt="Fatores de Usabilidade" src="https://github.com/user-attachments/assets/cf0e83ea-6f34-4e34-9292-602615d7fd31" />
+
+*Figura 4: Rede Dimensões UEQ: Atlas.ti*
+
+- Na estrutura do mapa, as dimensões do UEQ (*Atratividade, Perspicuidade, Eficiência, Novidade, Confiabilidade e Estimulação*) foram posicionadas como o núcleo central. A partir delas, conectamos as dificuldades apontadas pelos participantes, demonstrando visualmente como uma única falha de interface pode desencadear um "efeito dominó" que prejudica toda a experiência de uso.
+
+- Essa visualização em rede deixa evidente que as notas baixas obtidas no benchmarking do UEQ não aconteceram por acaso; elas são o reflexo direto e cumulativo de falhas pontuais de navegação e excesso de carga cognitiva que acompanham o usuário do início ao fim da sua jornada no site.
+
+<br>
+
+---
+
+<br>
+
+### 5. Considerações sobre a experiência do usuário
 
 Como notado, as reclamações mais recorrentes dos participantes concentraram-se nos **"Problemas nos filtros de pesquisa"** e no **"Excesso de informação / Confusão visual."**, ambos mencionados 3 vezes. 
 Nota-se que a dificuldade de guardar eventos gerou dois códigos muito semelhantes ("Dificuldade em favoritar/guardar um evento" e "Dificuldade em favoritar/guardar evento") que, analisados em conjunto, evidenciam outro ponto de atrito frequente na interface.
