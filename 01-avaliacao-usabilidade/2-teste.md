@@ -17,9 +17,8 @@ Para coletar informações sobre a usabilidade e a experiência do usuário, a e
 | T3 | Pesquisar um evento específico | Encontre um evento de tecnologia digitando termos de busca. Abra uma opção e informe o nome e a data. |
 | T4 | Buscar evento gratuito na cidade | Encontre um evento gratuito na cidade de Manaus. Informe nome, data e se é presencial ou on-line. |
 | T5 | Buscar por data e categoria | Procure um evento cultural ou de entretenimento para um fim de semana futuro. Verifique se a data e o horário atendem ao critério. |
-| T6 | Comparar duas opções | Encontre dois eventos de uma mesma categoria. Compare data, local/modalidade e preço; escolha um e explique por quê. |
-| T7 | Verificar detalhes do ingresso | Abra um evento com ingressos disponíveis. Identifique categorias de ingressos, preço e possíveis taxas, sem concluir uma compra. |
-| T8 | Encontrar informações para participar | Escolha um evento presencial e descubra o endereço, o horário de início e as orientações para participação descritas no anúncio. |
+| T6 | Verificar detalhes do ingresso | Abra um evento com ingressos disponíveis. Identifique categorias de ingressos, preço e possíveis taxas, sem concluir uma compra. |
+| T7 | Encontrar informações para participar | Escolha um evento presencial e descubra o endereço, o horário de início e as orientações para participação descritas no anúncio. |
 | T9 | Criar um evento | Crie um evento online, escolha as especificações, preencha os dados corretamente e defina o tipo de ingresso e as especificações solicitadas pelo sistema. |
 
 ---
