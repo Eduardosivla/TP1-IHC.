@@ -2,14 +2,20 @@
 
 ## 💡 1. Planejamento
 ### Objetivo do teste
+<div align="justify">
+  
 Para coletar informações sobre a usabilidade e a experiência do usuário, a equipe definiu um conjunto de tarefas que representam ações que os usuários normalmente realizam no site, de acordo com a sua finalidade. As tarefas abrangem desde a criação de uma conta e a busca por eventos de interesse até a etapa que antecede o pagamento.
+
+<div>
+  
 <br><br>
 
 ---
 
 ### 📑 Tarefas
 
-
+<div align="justify">
+  
 | Tarefa | Objetivo | Descrição |
 |---|---|---|
 | T1 | Criar uma conta | Comece sem estar conectado. Localize a opção de cadastro e crie uma conta utilizando um e-mail de teste ao qual tenha acesso. |
@@ -21,9 +27,13 @@ Para coletar informações sobre a usabilidade e a experiência do usuário, a e
 | T7 | Encontrar informações para participar | Escolha um evento presencial e descubra o endereço, o horário de início e as orientações para participação descritas no anúncio. |
 | T9 | Criar um evento | Crie um evento online, escolha as especificações, preencha os dados corretamente e defina o tipo de ingresso e as especificações solicitadas pelo sistema. |
 
+<div>
+
 ---
 
 ### 🛠️ Instrumentos utilizados
+<div align="justify">
+  
 Para a realização do teste, a equipe preparou os instrumentos abaixo, aplicados em todas as sessões na mesma sequência.
 
 ---
@@ -36,12 +46,16 @@ Para a realização do teste, a equipe preparou os instrumentos abaixo, aplicado
 | Questionário pós-teste (UEQ e 5 perguntas abertas) | Medir a experiência de uso e coletar opiniões | Ao final do teste, no Maze |
 | Registro do observador | Anotar tempo, erros e resultado de cada tarefa | Durante a sessão |
 
-
+<div>
+  
 ---
 
 ## 🚀 2. Teste Piloto
 
 ### ⚙️ Ajustes realizados
+
+<div align="justify">
+  
 Após a aplicação do teste piloto, a equipe revisou o planejamento original e identificou pontos que precisavam ser ajustados antes das sessões oficiais. As alterações realizadas estão descritas a seguir.
 
 ---
@@ -52,9 +66,13 @@ Após a aplicação do teste piloto, a equipe revisou o planejamento original e 
 
 📋 **Tarefas.** A equipe também reformulou as tarefas. No piloto, observou-se que elas eram simples demais para o objetivo do teste: estavam muito diretas e próximas de ações que o usuário já conhece, o que permitia concluí-las com pouco esforço e reduzia a chance de revelar problemas de usabilidade. As tarefas foram reescritas para representar situações mais completas e realistas, com mais de uma condição e etapas encadeadas, sem indicar o caminho a ser seguido pelo participante.
 
+<div>
+  
 ---
 <br>
 
+<div align="justify">
+  
 | Aspecto ajustado | Situação identificada no piloto | Alteração realizada |
 |---|---|---|
 | Formulário e questionários | Problemas relacionados a limitação da plataforma Maze e falta de compatibilidade com certos dispositivos | Aplicação via Google Forms, com respostas em planilhas |
@@ -62,6 +80,8 @@ Após a aplicação do teste piloto, a equipe revisou o planejamento original e 
 
 Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram a versão revisada dos instrumentos e das tarefas.
 <br><br>
+
+<div>
 
 
 ## 💻 3. Execução
@@ -77,6 +97,8 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 
 **Participante P1**
 
+<div align="justify">
+  
 | Tarefa | Tempo (s) | Resultado | Erros | Observações |
 | :--- | :---: | :---: | :---: | :--- |
 | T1 - Criar uma conta | 40.45 | ✓ | 0 | Sem erros do usuário. Tarefa simples utilizando atalhos do sistema |
@@ -205,10 +227,14 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 | T9 - Simular uma compra | - | - | - | - |
 | T10 - Criar um evento | - | - | - | - |
 
+<div>
+
 ---
 
 ### 📋 4.2 Resumo por participante
 
+<div align="justify">
+  
 | Participante | Sucesso ✓ | Com dificuldade ! | Insucesso ✗ | Tempo Total (s) | Total Erros |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | P1 | 3 | 3 | 3 | 273.93 | 13 |
@@ -255,9 +281,13 @@ Depois de finalizar o teste prático, os usuários responderam a algumas pergunt
 | **P7** | Filtros de pesquisa. | Talvez | Ajustaria o processo de cadastro na plataforma, que no momento se encontra dividido em duas etapas e deixa o usuário bem confuso se realmente a conta foi criada ou não. Também ajustaria a parte de pesquisa de eventos na plataforma, pois a funcionalidade de aplicação de filtros fica "escondida" |
 | **P8** | Página de detalhes do evento. Campo de busca | Não | Tela cheia de informações, confunderm a gente kkk. Organização das categorias |
 
+
+  
 ---
 
 ### 📌 Considerações sobre o Teste de Usabilidade
 A execução do Teste de Usabilidade revelou insights importantes sobre a forma como os utilizadores interagem com a plataforma Sympla, evidenciando tanto pontos de fluidez como obstáculos significativos na interface. De forma geral, constatou-se que tarefas de navegação simples apresentam um bom desempenho, enquanto ações que exigem preenchimento de formulários ou uso de filtros complexos geram frustração e altas taxas de erro.
+
+<div>
 
 
