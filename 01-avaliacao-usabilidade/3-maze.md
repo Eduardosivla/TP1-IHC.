@@ -12,15 +12,13 @@ O teste foi organizado como uma sequência de blocos que o participante percorre
 
 </div>
 
-![Blocos Maze](<img height="500" alt="Blocos do Maze: aviso e questionário de caracterização" src="https://github.com/user-attachments/assets/e619a7fb-839a-47d9-b4e8-ed91eec8dc13"/>)
+[Blocos Maze](https://github.com/user-attachments/assets/e619a7fb-839a-47d9-b4e8-ed91eec8dc13)
 
-![Blocos Maze](<img height="500" alt="Blocos do Maze: fim do questionário, telas de contexto, pós-teste e UEQ" src="https://github.com/user-attachments/assets/8181a3cc-09f6-41ea-8914-d82de8d8e866"/>)
-
-<br><br>
-
----
+[Blocos Maze](https://github.com/user-attachments/assets/8181a3cc-09f6-41ea-8914-d82de8d8e866)
 
 <br>
+
+---
 
 | Ordem | Bloco | Tipo | Função |
 |-------|-------|------|--------|
@@ -32,6 +30,8 @@ O teste foi organizado como uma sequência de blocos que o participante percorre
 | 14 | Questionário pós-teste | Context Screen | Introduzir a avaliação final |
 | 15 | Questionário de Experiência (UEQ) | Context Screen | Direcionar ao UEQ |
 
+<br>
+
 ---
 
 ### 2. 📝 Questionário de caracterização
@@ -41,10 +41,9 @@ O questionário foi aplicado no início do teste, com 9 perguntas de múltipla e
 
 </div>
 
----
-
 <br>
 
+---
 ### 3. 🧑‍💻 Como as tarefas e o pós-teste foram aplicados
 <div align="justify">
 
@@ -55,6 +54,8 @@ Por isso, depois do questionário, o participante copiava o link do Sympla, cola
 Quando terminava as tarefas, o participante abria o link do formulário do UEQ no Google Forms e respondia o questionário e as perguntas abertas. As respostas foram para uma planilha.
 
 </div>
+
+<br>
 
 ---
  
@@ -68,6 +69,8 @@ Depois do piloto, mudamos algumas coisas:
 - **Tarefas:** reescrevemos todas. No piloto, vimos que eram simples demais e muito diretas, parecidas com coisas que o usuário já faz sem pensar, então quase nada dava errado. As novas tarefas têm mais de uma condição e seguem uma sequência.
 
 </div>
+
+<br>
 
 ---
 
