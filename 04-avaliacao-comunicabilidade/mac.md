@@ -2,9 +2,13 @@
 
 ## Método Utilizado:
 
-###  O **Método de Avaliação de Comunicabilidade (MAC)** é uma técnica de inspeção de usabilidade baseada na Engenharia Semiótica. Em vez de focar apenas na facilidade de uso, o MAC avalia a qualidade da comunicação entre o designer do sistema e o usuário final, intermediada pela interface. O objetivo é descobrir se o usuário consegue entender a lógica, as intenções e as soluções que o designer embutiu no software.
+<div align="justify">
+
+O **Método de Avaliação de Comunicabilidade (MAC)** é uma técnica de inspeção de usabilidade baseada na Engenharia Semiótica. Em vez de focar apenas na facilidade de uso, o MAC avalia a qualidade da comunicação entre o designer do sistema e o usuário final, intermediada pela interface. O objetivo é descobrir se o usuário consegue entender a lógica, as intenções e as soluções que o designer embutiu no software.
 
 A avaliação geralmente envolve a gravação de usuários realizando tarefas específicas, seguida da anotação das interações.
+
+---
 
 ### Rupturas de Comunicabilidade (Etiquetas)
 
@@ -30,9 +34,13 @@ Abaixo estão as principais rupturas mapeadas pelo método:
 
 Essas etiquetas são fundamentais para diagnosticar exatamente onde o design falha em guiar as ações e expectativas de quem está usando a plataforma.
 
+---
+
 ## Participantes e Tarefas:
 
 ### [A definir].
+
+---
 
 ## Registro das Seções:
 
@@ -40,6 +48,8 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 
 - [Vídeo do participante U1](https://classroom.google.com/h/st)
 - [Vídeo do participante U2](https://classroom.google.com/h/st)
+
+---
 
 ## Etiquetagem das Rupturas
 
@@ -64,3 +74,5 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 ### Apresentar os principais resultados da avaliação, destacando quais etiquetas apareceram com maior
 frequência, quais tarefas apresentaram mais rupturas e o que esses resultados indicam sobre a comunicação
 entre o sistema e os usuários.
+
+<div>
