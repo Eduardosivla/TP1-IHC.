@@ -19,6 +19,8 @@ As respostas obtidas foram inseridas na ferramenta oficial de análise de dados 
 
 </div>
 
+<br>
+
 ---
 
 ## 📉 2. Resultados Gerais 
@@ -41,9 +43,9 @@ As respostas obtidas foram inseridas na ferramenta oficial de análise de dados 
 
 *Figura 1 - Resultados gerais das dimensões avaliadas pelo UEQ*
 
----
-
 <br>
+
+---
 
 ## 📈 3. Análise Quantitativa
 
@@ -72,9 +74,9 @@ A dimensão **Confiabilidade** (*Dependability*) foi a melhor avaliada, embora a
 
 </div>
 
----
-
 <br>
+
+---
 
 ### Gráfico 2 - Valores Médios por Item
 
@@ -105,7 +107,6 @@ Em contrapartida, os aspetos que mais agradaram aos utilizadores (barras à dire
 
 <br>
 
-
 ## 🔎 4. Análise Qualitativa
 
 <div align="justify">
@@ -113,6 +114,8 @@ Em contrapartida, os aspetos que mais agradaram aos utilizadores (barras à dire
 A análise qualitativa teve como objetivo compreender as razões subjacentes aos resultados quantitativos obtidos no questionário UEQ e nas métricas do Teste de Usabilidade. Para isso, analisámos o *feedback* escrito deixado pelos participantes utilizando o software ATLAS.ti.
 
 </div>
+
+<br>
 
 ---
 
@@ -159,9 +162,9 @@ Para o processo de *feedback*, foram importadas as respostas abertas de cada usu
 *Figura 2: Justificativa da criação dos códigos baseado nas respostas dos participantes*
 
 
----
-
 <br>
+
+---
 
 ### 🏷️ 4.3 Códigos identificados 
 
@@ -191,11 +194,11 @@ Durante a análise no Atlas.ti, foram criados 9 códigos para categorizar cada p
 
 *Figura 3: Códigos de categorização*
 
-<br>
-
 <div align="justify">
 
 <br>
+
+---
 
 ### 🌐 4.4 Redes construídas no ATLAS.ti
 Para visualizar o impacto real dos problemas relatados na percepção dos usuários, construímos um mapa conceitual (Rede) no ATLAS.ti. O objetivo dessa rede foi cruzar os dados qualitativos (os códigos de problemas que identificamos nos relatos) com os dados quantitativos (as 6 dimensões de usabilidade avaliadas pelo questionário UEQ).
@@ -215,8 +218,6 @@ Para visualizar o impacto real dos problemas relatados na percepção dos usuár
 <br>
 
 ---
-
-<br>
 
 ### 5. Considerações sobre a experiência do usuário
 
