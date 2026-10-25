@@ -1,7 +1,8 @@
 # Trabalho Prático 01 - Sistema: Sympla.
+<p align="justify">
+  
 **Disciplina:** Interação Humano Computador \
 **Docente:** Professor Dr. Andrey Rodrigues
-</p>  
 
 ## :busts_in_silhouette: Integrantes da Equipe: 
 - Carlos Eduardo
@@ -13,7 +14,9 @@
 
   
 ## :mag: Sobre o Sistema
+
 <p align="justify">
+  
 Sympla é uma plataforma brasileira de eventos que reúne, em um só ambiente, a divulgação de eventos, a venda de ingressos e a gestão de participantes. Com a popularização de shows, festivais, cursos, palestras e encontros, tanto presenciais quanto online, surgiu a necessidade de soluções que facilitassem o acesso do público aos eventos e a organização por parte de quem os promove. O sistema atende a essa demanda ao permitir que o público encontre eventos por cidade, categoria ou localização, compre ou retire ingressos de forma digital e acesse tudo pelo celular, enquanto os organizadores criam eventos, vendem ingressos e controlam a entrada do público. O público-alvo do Sympla é amplo, formado principalmente por participantes (consumidores que buscam e compram ingressos) e organizadores (pessoas e empresas que realizam eventos), o que o caracteriza como uma plataforma que conecta os dois lados.
 </p>  
 
@@ -68,17 +71,10 @@ TP1-IHC/
 | **Avaliação de Comunicabilidade**
 
 ## :link: Tecnologias e Ferramentas
-- [Notion] (https://www.notion.so/)
-- [Maze] (https://maze.co/)
-- [UEQ] (https://www.ueq-online.org/)
-- [ATLAS.ti] (https://www.ueq-online.org/)
-
-
-
-
-
-
-
+- [Notion](https://www.notion.so/)
+- [Maze](https://maze.co/)
+- [UEQ](https://www.ueq-online.org/)
+- [ATLAS.ti](https://www.ueq-online.org/)
 
 
 ## :robot: Declaração de USO de IA
@@ -88,4 +84,4 @@ A equipe utilizou ferramentas de Inteligência Artificial como Gemini, Claude co
 
 ## :pushpin: Observações Finais
 
-
+</p>
