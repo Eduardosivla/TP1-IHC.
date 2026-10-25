@@ -90,14 +90,24 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 ### Evidências
 
 [Participante 00 realizando o teste piloto](https://github.com/user-attachments/assets/20d72a91-2a65-46e2-bec5-d171ee14a85d)
-![Participanete 01 realizando o teste](image-1.png)
-![Participante 02 realizando o teste](image-2.png)
-![Participante 03 realizando o teste](image-3.png)
-![Participante 04 realizando o teste](IMG_1289.jpg)
-![Participante 05 realizando o teste](image-4.png)
-![Participante 06 realizando o teste](image-5.png)
-![Participante 07 realizando o teste](image-6.png)
-![Participante 07 realizando o teste](image-7.png)
+<br>
+[Participanete 01 realizando o teste](https://github.com/user-attachments/assets/50f72de4-f74d-4cc5-b37b-d95fc4f733f7)
+<br>
+[Participante 02 realizando o teste](https://github.com/user-attachments/assets/d1d3c940-9c03-4fb1-bc4c-040842f95e75)
+<br>
+[Participante 03 realizando o teste](https://github.com/user-attachments/assets/d726e221-3189-4e52-93f8-12a6a17a5df8)
+<br>
+[Participante 04 realizando o teste](https://github.com/user-attachments/assets/92fd9d12-9bdc-4d80-bbba-38fbe264f379)
+<br>
+[Participante 05 realizando o teste](https://github.com/user-attachments/assets/eda9dc53-f5c6-43c3-84ef-d3e833e44f5c)
+<br>
+[Participante 06 realizando o teste](https://github.com/user-attachments/assets/0af9c64f-5aaa-491f-8a81-87f55ec3542a)
+<br>
+[Participante 07 realizando o teste](https://github.com/user-attachments/assets/82d4477c-eb17-4bac-90a8-87737f4b858c)
+<br>
+[Participante 08 realizando o teste](https://github.com/user-attachments/assets/72fada03-970a-45bd-afe9-eacc50448588)
+
+---
 
 ## 📊 4. Análise dos Resultados
 
