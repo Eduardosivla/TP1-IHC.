@@ -1,5 +1,8 @@
 # Avaliação de Experiência do Usuário
 ## 1. Aplicação do UEQ
+
+<div align="justify">
+
 [Descrever o método utilizado e como ele pode ser aplicado numa avaliação de UX]
 
 ## 2. Resultados Gerais 
@@ -28,6 +31,8 @@ Apresente prints/imagens dos principais códigos criados durante a análise
 Apresente as redes criadas para representar as dimensões do UEQ e os códigos associados a cada uma delas
 
 ## 4. Considerações sobre a experiência do usuário
+
+<div>
 
 
 
