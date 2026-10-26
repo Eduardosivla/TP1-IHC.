@@ -1,17 +1,15 @@
-## 🧩 Configuração do Maze
 <div align="justify">
+  
+## 🧩 Configuração do Maze
 
 Este documento apresenta como o Teste de Usabilidade foi configurado na ferramenta Maze, descrevendo a estrutura dos blocos, o questionário de caracterização, as telas de contexto e os ajustes feitos após o teste piloto.
 
-</div>
+<br>
 
-### 🗂️ 1.Estrutura do Maze
----
-<div align="justify">
+### 🗂️ 1. Estrutura do Maze
 
 O teste foi organizado como uma sequência de blocos que o participante percorre na ordem apresentada abaixo. Os blocos de Context Screen são telas de texto, usadas para explicar o teste e orientar o participante, e os blocos de Multiple Choice compõem o questionário de caracterização.
 
-</div>
 
 [Blocos Maze 01](https://github.com/user-attachments/assets/e619a7fb-839a-47d9-b4e8-ed91eec8dc13)
 
@@ -31,9 +29,7 @@ O teste foi organizado como uma sequência de blocos que o participante percorre
 
 <br>
 
-### 📝 2.Questionário de caracterização
----
-<div align="justify">
+### 📝 2. Questionário de caracterização
 
 O questionário foi aplicado no início do teste, com 9 perguntas de múltipla escolha sobre faixa etária, escolaridade, familiaridade com tecnologia, hábitos de compra online, frequência em eventos, acessibilidade e leitura, experiência com o Sympla e dispositivo mais usado. As respostas descrevem o perfil dos participantes na análise dos resultados.
 
@@ -41,9 +37,7 @@ O questionário foi aplicado no início do teste, com 9 perguntas de múltipla e
 
 <br>
 
-### 🧑‍💻3.Como as tarefas e o pós-teste foram aplicados
----
-<div align="justify">
+### 🧑‍💻 3. Como as tarefas e o pós-teste foram aplicados
 
 No Maze ficaram o aviso, o questionário de caracterização e as telas que explicam o teste. As tarefas não foram feitas dentro do Maze, porque o bloco que permite testar um site ao vivo era pago na conta que usamos.
 
@@ -51,13 +45,9 @@ Por isso, depois do questionário, o participante copiava o link do Sympla, cola
 
 Quando terminava as tarefas, o participante abria o link do formulário do UEQ no Google Forms e respondia o questionário e as perguntas abertas. As respostas foram para uma planilha.
 
-</div>
-
 <br>
 
-### 🔄 4.Ajustes após o piloto
----
-<div align="justify">
+### 🔄 4. Ajustes após o piloto
 
 Depois do piloto, mudamos algumas coisas:
 
@@ -65,15 +55,13 @@ Depois do piloto, mudamos algumas coisas:
 -  **Blocos do Maze:** alguns blocos foram acrescentados depois do piloto (aparecem com a marca "Added" nos prints).
 - **Tarefas:** reescrevemos todas. No piloto, vimos que eram simples demais e muito diretas, parecidas com coisas que o usuário já faz sem pensar, então quase nada dava errado. As novas tarefas têm mais de uma condição e seguem uma sequência.
 
-</div>
 
 <br>
 
-### ⚠️ 5.Limitações
----
-<div align="justify">
+### ⚠️ 5. Limitações
 
 -  Como o bloco de teste de site ao vivo era pago, o Maze não mediu o tempo nem o sucesso das tarefas. Isso foi anotado à mão durante as sessões, então os tempos podem ter pequenas diferenças.
 -  Foram poucos participantes, então os resultados mostram tendências e não valem para todos os usuários do Sympla.
 
 </div>
+
