@@ -8,10 +8,6 @@ Para coletar informações sobre a usabilidade e a experiência do usuário, a e
 
 <div>
   
-<br>
-
----
-
 ### 📑 Tarefas
 
 <div align="justify">
@@ -69,7 +65,6 @@ Após a aplicação do teste piloto, a equipe revisou o planejamento original e 
 <div>
   
 ---
-<br>
 
 <div align="justify">
   
@@ -242,9 +237,8 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 | **T10 - Criar um evento** | 225.17 | ! | 4 | Concluiu, mas com erros relacionados aos campos de informações do site. |
 <div>
 
----
 
-<br>
+---
 
 ### 📋 4.2 Resumo por participante
 
@@ -260,9 +254,8 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 | **P6** | 6 | 3 | 0 | 735.39 | 3 |
 | **P7** | 4 | 5 | 0 | 875.61 | 9 |
 | **P8** | 5 | 4 | 0 | 513.12 | 8 |
----
 
-<br>
+---
 
 ### ✅ 4.3 Consolidação por tarefa
 
@@ -277,10 +270,9 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 | **T8 - Encontrar informações para participar** | 38.0% | 24.02 |
 | **T9 - Simular uma compra** | 75.0% | 38.50 |
 | **T10 - Criar um evento** | 25.0% | 225.17 |
+
+
 ---
-
-<br>
-
 ### 4.4 Respostas abertas e fatores de usabilidade
 
 Depois de finalizar o teste prático, os usuários responderam a algumas perguntas abertas para contar o que acharam do sistema. A tabela abaixo resume as maiores dificuldades encontradas e as sugestões de cada um, mantendo exatamente as palavras que eles usaram no formulário:
@@ -298,11 +290,12 @@ Depois de finalizar o teste prático, os usuários responderam a algumas pergunt
 | **P7** | Filtros de pesquisa. | Talvez | Ajustaria o processo de cadastro na plataforma, que no momento se encontra dividido em duas etapas e deixa o usuário bem confuso se realmente a conta foi criada ou não. Também ajustaria a parte de pesquisa de eventos na plataforma, pois a funcionalidade de aplicação de filtros fica "escondida" |
 | **P8** | Página de detalhes do evento. Campo de busca | Não | Tela cheia de informações, confunderm a gente kkk. Organização das categorias |
 
----
-
 <br>
 
-### 📌 Considerações sobre o Teste de Usabilidade
+---
+
+### 📌 5. Considerações sobre o Teste de Usabilidade
+
 A execução do Teste de Usabilidade revelou insights importantes sobre a forma como os utilizadores interagem com a plataforma Sympla, evidenciando tanto pontos de fluidez como obstáculos significativos na interface. De forma geral, constatou-se que tarefas de navegação simples apresentam um bom desempenho, enquanto ações que exigem preenchimento de formulários ou uso de filtros complexos geram frustração e altas taxas de erro.
 
 <div>
