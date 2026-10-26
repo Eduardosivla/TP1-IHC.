@@ -5,7 +5,7 @@ Este documento apresenta como o Teste de Usabilidade foi configurado na ferramen
 
 </div>
 
-### 1. 🗂️ Estrutura do Maze
+### 🗂️ 1.Estrutura do Maze
 ---
 <div align="justify">
 
@@ -31,7 +31,7 @@ O teste foi organizado como uma sequência de blocos que o participante percorre
 
 <br>
 
-### 2. 📝 Questionário de caracterização
+### 📝 2.Questionário de caracterização
 ---
 <div align="justify">
 
@@ -41,7 +41,7 @@ O questionário foi aplicado no início do teste, com 9 perguntas de múltipla e
 
 <br>
 
-### 3. 🧑‍💻 Como as tarefas e o pós-teste foram aplicados
+### 🧑‍💻3.Como as tarefas e o pós-teste foram aplicados
 ---
 <div align="justify">
 
@@ -55,7 +55,7 @@ Quando terminava as tarefas, o participante abria o link do formulário do UEQ n
 
 <br>
 
-### 4. 🔄 Ajustes após o piloto
+### 🔄 4.Ajustes após o piloto
 ---
 <div align="justify">
 
@@ -69,7 +69,7 @@ Depois do piloto, mudamos algumas coisas:
 
 <br>
 
-### 5. ⚠️ Limitações
+### ⚠️ 5.Limitações
 ---
 <div align="justify">
 
