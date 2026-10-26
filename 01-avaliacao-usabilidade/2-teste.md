@@ -43,8 +43,8 @@ Para a realização do teste, a equipe preparou os instrumentos abaixo, aplicado
 | Registro do observador | Anotar tempo, erros e resultado de cada tarefa | Durante a sessão |
 
 <div>
-  
----
+
+<br>
 
 ## 🚀 2. Teste Piloto
 
@@ -102,7 +102,7 @@ Com esses ajustes, o planejamento foi atualizado e as sessões oficiais seguiram
 <br>
 [Participante 08 realizando o teste](https://github.com/user-attachments/assets/72fada03-970a-45bd-afe9-eacc50448588)
 
----
+<br>
 
 ## 📊 4. Análise dos Resultados
 
