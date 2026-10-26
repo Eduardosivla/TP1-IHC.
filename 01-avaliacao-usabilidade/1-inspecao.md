@@ -21,11 +21,13 @@ As heurísticas de Nielsen são dez princípios gerais de usabilidade, propostos
 | H8 | **Estética e design minimalista** | A interface não deve conter informação irrelevante ou excessiva, que compete com o que importa. |
 | H9 | **Ajudar o usuário a reconhecer, diagnosticar e corrigir erros** | Mensagens de erro devem ser claras, indicar o problema e sugerir uma solução. |
 | H10 | **Ajuda e documentação** | Mesmo que o sistema funcione sem manual, a ajuda deve existir, ser fácil de achar e focada na tarefa. |
+
 <br>
+
 ## Processo de inspeção
 Para encontrar problemas e violações das Heurísticas de Nilsen, foi adotado pela a equipe 5 passos;
 
-
+---
 
 #### 📌 Preparação
 Os membros da equipe reuniram-se para definir qual o sistema iria ser inspecionado, o escopo (cadastro, busca de eventos, compra de ingressos, criação de um evento), sendo combinado de ser registrado em tabelas no Notion. Não houve tarefas especificas a serem feitas, cada membro explorou o sistema livremente.
@@ -42,16 +44,14 @@ As seis tabelas foram reunidas em somente uma. Problemas relatos por mais de um 
 #### 💬 Discriminação
 Duas pessoas da equipe ficaram responsáveis para a análise dos problemas e em classifica-los como 'defeito' (problema real de usabilidade) ou 'falso positivo' (não confirmado ou que não prejudica a experiência do usuário).Cada problema foi **reproduzido no sistema, discutido entre as pessoas responsáveis, e a heurística principal foi definida e repassada para o restante da equipe**.
 
+---
+
 #### 📋 Relato dos Resultados
 Com os dados devidamente coletados e filtrados na etapa de discriminação, elaborou-se o relato final. Nesta última fase, todos os defeitos confirmados foram documentados de forma clara e objetiva, consolidando as descrições dos problemas, as heurísticas violadas e o impacto na experiência de uso. Este documento atua como o artefato definitivo da avaliação, servindo de base e orientação para as futuras correções e melhorias na interface da plataforma Sympla.
 
----
-####
+<br>
 
-
-
-
-Os registros completos de cada etapa estão nos links abaixo.
+***Os registros completos de cada etapa estão nos links abaixo.***
 
 ---
 
