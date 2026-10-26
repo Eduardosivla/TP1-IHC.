@@ -57,7 +57,7 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 
 | Participante | Tarefa | Tela/Elementos | Situação Observada | Tipo de Falha | Etiqueta | Problema de Comunicabilidade |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:| 
-|P1|y|z|a|b|c|t|
+|P1|y|z|a|b|c|Usuário não percebe que já está na conta|
 |P2|y|z|a|b|c|t|
 |P1|y|z|a|b|c|t|
 |P1|y|z|a|b|c|t|
