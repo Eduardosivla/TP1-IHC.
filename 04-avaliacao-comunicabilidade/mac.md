@@ -61,7 +61,13 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 |P2|y|Tela de cadastro|a|b|c|t|
 |P1|y|Tela de cadastro|a|b|c|t|
 |P1|y|Tela inicial|a|b|c|t|
-
+|P1|y|Tela de um evento|a|b|c|t|
+|P1|y|Tela de um evento|a|b|c|t|
+|P1|y|Tela de um evento|a|b|c|t|
+|P1|y|Tela de validar pix|a|b|c|t|
+|P1|y|Tela de criar evento|a|b|c|t|
+|P1|y|Tela de criar eventos|a|b|c|t|
+|P1|y|Tela de ajuda para produtos|a|b|c|t|
 ## Consolidação das Etiquetas
 
 ### Explicar o que a tabela apresenta e discutir os resultados observados.
