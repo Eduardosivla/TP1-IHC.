@@ -1,6 +1,6 @@
 ## 📊 Avaliação de Experiência do Usuário
 
-## 📝 1. Aplicação do UEQ
+### 📝 1. Aplicação do UEQ
 
 <div align="justify">
 
@@ -21,8 +21,6 @@ As respostas obtidas foram inseridas na ferramenta oficial de análise de dados 
 
 <br>
 
----
-
 ## 📉 2. Resultados Gerais 
 
 | Tipo | Resultado |
@@ -36,17 +34,6 @@ As respostas obtidas foram inseridas na ferramenta oficial de análise de dados 
 
 <br>
 
----
-
-<img height="144" alt="image" src="https://github.com/user-attachments/assets/3b38927d-64a7-478a-aec5-69b104a70744" />
-
-
-*Figura 1 - Resultados gerais das dimensões avaliadas pelo UEQ*
-
-<br>
-
----
-
 ## 📈 3. Análise Quantitativa
 
 ### Gráfico 1 - Médias das Dimensões (Escalas)
@@ -55,17 +42,12 @@ As respostas obtidas foram inseridas na ferramenta oficial de análise de dados 
 
 
 <div align="justify">
-
-<br>
-
+  
 O gráfico acima apresenta as pontuações médias para cada uma das seis dimensões do UEQ, juntamente com as respetivas barras de erro (intervalos de confiança). Considerando que a faixa amarela entre -0,8 e 0,8 representa uma avaliação essencialmente "neutra", observa-se que o desempenho geral do Sympla não conseguiu atingir a zona verde de avaliações positivas em nenhuma categoria.
 
 </div>
 
-<br>
-
 ---
-
 ### Resultados Observados:
 
 <div align="justify">
@@ -74,10 +56,7 @@ A dimensão **Confiabilidade** (*Dependability*) foi a melhor avaliada, embora a
 
 </div>
 
-<br>
-
 ---
-
 ### Gráfico 2 - Valores Médios por Item
 
 <img height="346" alt="image" src="https://github.com/user-attachments/assets/cc5adb2c-cfc0-416e-a5bf-ab5f55e79021"/>
@@ -85,13 +64,9 @@ A dimensão **Confiabilidade** (*Dependability*) foi a melhor avaliada, embora a
 
 <div align="justify">
   
-<br>
-  
 Este gráfico oferece uma visão mais granular, decompondo as dimensões e mostrando a avaliação exata dos utilizadores para cada um dos 26 pares de adjetivos opostos do questionário (ex: *confusing/clear*, *slow/fast*).
 
 </div>
-
-<br>
 
 --- 
 
@@ -115,10 +90,7 @@ A análise qualitativa teve como objetivo compreender as razões subjacentes aos
 
 </div>
 
-<br>
-
 ---
-
 
 ### 💬 4.1 Respostas abertas analisadas
 
@@ -143,9 +115,6 @@ Os dados que serviram de base para a nossa análise qualitativa foram as respost
 
 <br>
 
----
-
-
 ### ⚙️ 4.2 Processo de codificação Atlas.ti
 
 <div align="justify">
@@ -163,8 +132,6 @@ Para o processo de *feedback*, foram importadas as respostas abertas de cada usu
 
 
 <br>
-
----
 
 ### 🏷️ 4.3 Códigos identificados 
 
@@ -198,8 +165,6 @@ Durante a análise no Atlas.ti, foram criados 9 códigos para categorizar cada p
 
 <br>
 
----
-
 ### 🌐 4.4 Redes construídas no ATLAS.ti
 Para visualizar o impacto real dos problemas relatados na percepção dos usuários, construímos um mapa conceitual (Rede) no ATLAS.ti. O objetivo dessa rede foi cruzar os dados qualitativos (os códigos de problemas que identificamos nos relatos) com os dados quantitativos (as 6 dimensões de usabilidade avaliadas pelo questionário UEQ).
 
@@ -217,7 +182,6 @@ Para visualizar o impacto real dos problemas relatados na percepção dos usuár
 
 <br>
 
----
 
 ### 5. Considerações sobre a experiência do usuário
 
