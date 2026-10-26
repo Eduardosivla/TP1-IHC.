@@ -6,6 +6,7 @@ Este documento apresenta como o Teste de Usabilidade foi configurado na ferramen
 </div>
 
 ### 1. 🗂️ Estrutura do Maze
+---
 <div align="justify">
 
 O teste foi organizado como uma sequência de blocos que o participante percorre na ordem apresentada abaixo. Os blocos de Context Screen são telas de texto, usadas para explicar o teste e orientar o participante, e os blocos de Multiple Choice compõem o questionário de caracterização.
@@ -38,6 +39,8 @@ O questionário foi aplicado no início do teste, com 9 perguntas de múltipla e
 
 </div>
 
+<br>
+
 ### 3. 🧑‍💻 Como as tarefas e o pós-teste foram aplicados
 ---
 <div align="justify">
@@ -49,7 +52,9 @@ Por isso, depois do questionário, o participante copiava o link do Sympla, cola
 Quando terminava as tarefas, o participante abria o link do formulário do UEQ no Google Forms e respondia o questionário e as perguntas abertas. As respostas foram para uma planilha.
 
 </div>
- 
+
+<br>
+
 ### 4. 🔄 Ajustes após o piloto
 ---
 <div align="justify">
@@ -62,9 +67,10 @@ Depois do piloto, mudamos algumas coisas:
 
 </div>
 
----
+<br>
 
 ### 5. ⚠️ Limitações
+---
 <div align="justify">
 
 -  Como o bloco de teste de site ao vivo era pago, o Maze não mediu o tempo nem o sucesso das tarefas. Isso foi anotado à mão durante as sessões, então os tempos podem ter pequenas diferenças.
