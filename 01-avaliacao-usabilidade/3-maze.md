@@ -12,11 +12,9 @@ O teste foi organizado como uma sequência de blocos que o participante percorre
 
 </div>
 
-[Blocos Maze](https://github.com/user-attachments/assets/e619a7fb-839a-47d9-b4e8-ed91eec8dc13)
+[Blocos Maze 01](https://github.com/user-attachments/assets/e619a7fb-839a-47d9-b4e8-ed91eec8dc13)
 
-[Blocos Maze](https://github.com/user-attachments/assets/8181a3cc-09f6-41ea-8914-d82de8d8e866)
-
-<br>
+[Blocos Maze 02](https://github.com/user-attachments/assets/8181a3cc-09f6-41ea-8914-d82de8d8e866)
 
 ---
 
@@ -32,19 +30,16 @@ O teste foi organizado como uma sequência de blocos que o participante percorre
 
 <br>
 
----
-
 ### 2. 📝 Questionário de caracterização
+---
 <div align="justify">
 
 O questionário foi aplicado no início do teste, com 9 perguntas de múltipla escolha sobre faixa etária, escolaridade, familiaridade com tecnologia, hábitos de compra online, frequência em eventos, acessibilidade e leitura, experiência com o Sympla e dispositivo mais usado. As respostas descrevem o perfil dos participantes na análise dos resultados.
 
 </div>
 
-<br>
-
----
 ### 3. 🧑‍💻 Como as tarefas e o pós-teste foram aplicados
+---
 <div align="justify">
 
 No Maze ficaram o aviso, o questionário de caracterização e as telas que explicam o teste. As tarefas não foram feitas dentro do Maze, porque o bloco que permite testar um site ao vivo era pago na conta que usamos.
@@ -54,12 +49,9 @@ Por isso, depois do questionário, o participante copiava o link do Sympla, cola
 Quando terminava as tarefas, o participante abria o link do formulário do UEQ no Google Forms e respondia o questionário e as perguntas abertas. As respostas foram para uma planilha.
 
 </div>
-
-<br>
-
----
  
 ### 4. 🔄 Ajustes após o piloto
+---
 <div align="justify">
 
 Depois do piloto, mudamos algumas coisas:
@@ -69,8 +61,6 @@ Depois do piloto, mudamos algumas coisas:
 - **Tarefas:** reescrevemos todas. No piloto, vimos que eram simples demais e muito diretas, parecidas com coisas que o usuário já faz sem pensar, então quase nada dava errado. As novas tarefas têm mais de uma condição e seguem uma sequência.
 
 </div>
-
-<br>
 
 ---
 
