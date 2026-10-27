@@ -11,7 +11,7 @@ Este documento apresenta o Sympla, sistema escolhido para a avaliação, descrev
 
 <br>
 
-## 📝 1. -Sistema Avaliado
+## 📝 1. Sistema Avaliado
 **Nome:** Sympla<br>
 **Tipo:** plataforma web e aplicativo móvel<br>
 **Endereço:** [https://www.sympla.com.br](https://www.sympla.com.br)<br>
@@ -21,7 +21,7 @@ O Sympla é uma plataforma brasileira de eventos que reúne, em um só ambiente,
 
 <br>
 
-## 🔗 2. -Domínio
+## 🔗 2. Domínio
 <p align="justify">
 O sistema está inserido no domínio de entretenimento e eventos, com forte relação com o comércio eletrônico, já que envolve a venda de ingressos e o pagamento online.
 </p>
@@ -29,7 +29,7 @@ O sistema está inserido no domínio de entretenimento e eventos, com forte rela
 <br>
 
 
-## 💬 3. -Finalidade
+## 💬 3. Finalidade
 <p align="justify">
 O Sympla existe para conectar quem organiza eventos a quem deseja participar deles. Com o sistema, é possível:
 </p>
@@ -42,7 +42,7 @@ O Sympla existe para conectar quem organiza eventos a quem deseja participar del
 <br>
 
 
-## 👤 4. -Principais Usuários
+## 👤 4. Principais Usuários
 | Perfil | Descrição | Conhecimento necessário|
 |--------|-----------|------------------------|
 | **Participante** | Pessoa que busca eventos, compra ou realiza a retirada de ingressos e os utiliza na entrada do evento. | Uso básico de internet e de celular; familiaridade com compras online. |
@@ -52,7 +52,7 @@ O Sympla existe para conectar quem organiza eventos a quem deseja participar del
 
 <br>
 
-## ⚙️ 5. -Funcionalidade
+## ⚙️ 5. Funcionalidade
 | Funcionalidade | Descrição | Perfil |
 |----------------|-----------|--------|
 |Busca e filtros de eventos | Permite procurar eventos por região, categoria ou localização. | Participante. |
@@ -70,7 +70,7 @@ O Sympla existe para conectar quem organiza eventos a quem deseja participar del
 
 <br>
 
-## 💡 6. -Escopo da avaliação
+## 💡 6. Escopo da avaliação
 
 **Incluído no escopo:**
 - Busca e filtragem de eventos
