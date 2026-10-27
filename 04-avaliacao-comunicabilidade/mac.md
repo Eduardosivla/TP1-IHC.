@@ -58,17 +58,17 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 
 | Participante | Tarefa | Tela/Elementos | Situação Observada | Tipo de Falha | Etiqueta | Problema de Comunicabilidade |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:| 
-|Rosaura Oliveira|T1|Tela inicial|“foi ? foi !”|b|Ué, o que houve?|Usuário não percebe que já está na conta|
-|Rosaura Oliveira|T2|Tela de cadastro|“continuar cadastro”|b|Não, obrigado. |Usuário pulou uma etapa do cadastro|
-|Rosaura Oliveira|T2|Tela de cadastro|“foi?”|b|Não, obrigado. |Novamente pulou uma etapa do cadastro|
-|Rosaura Oliveira|T3|Tela inicial|“opa”|b|Epa!|Usuário clicou em uma opção errada e voltou|
-|Rosaura Oliveira|T4|Tela de um evento|“aham eu copiei o link...”|b|Vai de outro jeito.|Usuário guardou o evento copiando seu link e não usando a opção favoritar pois não foi achada |
-|Rosaura Oliveira|T5|Tela de um evento|“Não era isso?”|b|Para mim está bom...|Usuário acredita ter terminado a tarefa|
-|Rosaura Oliveira|T5|Tela de um evento|“Não foi só...”|b|Ué, o que houve? |Usuário não entende que a tarefa não foi realizada após conclusão dos dados da sua conta|
-|Rosaura Oliveira|T6|Tela de validar pix|“Tá eu não consegui”|b|Desisto|Usuário não conseguiu sair da tela usando os recursos do sistema|
-|Rosaura Oliveira|T9|Tela de criar evento|“Não tá dando pra publicar..”|b|Por que não funciona?|Usuário esperava a criação de um evento porém não compreende inicialmente o motivo|
-|Rosaura Oliveira|T9|Tela de criar eventos|“Desisto”|b|Desisto|Usuário não consegue concluir a tarefa|
-|Rosaura Oliveira|T10|Tela de ajuda para produtos|Não aplicável|b|Onde estou? |Usuário segue um caminho alternativo ao central de ajuda|
+|Rosaura Oliveira|T1|Tela inicial|“foi ? foi !”|Temporário|Ué, o que houve?|Usuário não percebe que já está na conta|
+|Rosaura Oliveira|T2|Tela de cadastro|“continuar cadastro”|Temporário|Não, obrigado. |Usuário pulou uma etapa do cadastro|
+|Rosaura Oliveira|T2|Tela de cadastro|“foi?”|Temporário|Não, obrigado. |Novamente pulou uma etapa do cadastro|
+|Rosaura Oliveira|T3|Tela inicial|“opa”|Temporário|Epa!|Usuário clicou em uma opção errada e voltou|
+|Rosaura Oliveira|T4|Tela de um evento|“aham eu copiei o link...”|Temporário|Vai de outro jeito.|Usuário guardou o evento copiando seu link e não usando a opção favoritar pois não foi achada |
+|Rosaura Oliveira|T5|Tela de um evento|“Não era isso?”|Temporário|Para mim está bom...|Usuário acredita ter terminado a tarefa|
+|Rosaura Oliveira|T5|Tela de um evento|“Não foi só...”|Temporário|Ué, o que houve? |Usuário não entende que a tarefa não foi realizada após conclusão dos dados da sua conta|
+|Rosaura Oliveira|T6|Tela de validar pix|“Tá eu não consegui”|Temporário|Desisto|Usuário não conseguiu sair da tela usando os recursos do sistema|
+|Rosaura Oliveira|T9|Tela de criar evento|“Não tá dando pra publicar..”|Temporário|Por que não funciona?|Usuário esperava a criação de um evento porém não compreende inicialmente o motivo|
+|Rosaura Oliveira|T9|Tela de criar eventos|“Desisto”|Temporário|Desisto|Usuário não consegue concluir a tarefa|
+|Rosaura Oliveira|T10|Tela de ajuda para produtos|Não aplicável|Temporário|Onde estou? |Usuário segue um caminho alternativo ao central de ajuda|
 
 | Participante | Tarefa | Tela/Elementos | Situação Observada | Tipo de Falha | Etiqueta | Problema de Comunicabilidade |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:| 
@@ -99,8 +99,18 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 | Cadê? | 0 | 1 | 1 | T3 |
 | Assim não dá. | 0 | 1 | 1 | T4 |
 
-### Apresentar os principais resultados da avaliação, destacando quais etiquetas apareceram com maior
-frequência, quais tarefas apresentaram mais rupturas e o que esses resultados indicam sobre a comunicação
-entre o sistema e os usuários.
+### A tabela apresenta os resultados de uma avaliação de usabilidade baseada no Método de Avaliação de Comunicabilidade (MAC). Ela estrutura as evidências das interações de dois participantes (Rosaura Oliveira e Mario Caroline) ao realizarem tarefas no sistema, mapeando a situação observada (uma fala ou ação do usuário) para uma etiqueta padrão que traduz a expressão de ruptura na comunicação, além de diagnosticar o problema de design subjacente. A análise dos dados coletados revela padrões claros de falhas na interface e na comunicação do sistema com o usuário:
+
+### Fluxo de cadastro extenso ou confuso (Tarefa 2): A etiqueta "Não, obrigado." foi registrada múltiplas vezes para ambos os participantes na tela de cadastro. Isso evidencia que os usuários estão sistematicamente pulando etapas, o que sugere que o formulário solicita informações percebidas como desnecessárias naquele momento ou possui uma progressão mal sinalizada.
+
+### Ausência de feedback visual de estado (Tarefas 1, 4 e 5): O uso recorrente das etiquetas "Ué, o que houve?" e "Para mim está bom..." indica que o sistema falha em confirmar ações. Os usuários não percebem quando o login é efetuado com sucesso (T1), aguardam alterações na tela que não ocorrem após mudar configurações (T4) ou acreditam falsamente que concluíram a tarefa (T5).
+
+### Bloqueios críticos de navegação (Tarefa 6): A ocorrência da etiqueta "Desisto" por ambos os participantes na tela de validação de PIX representa uma falha de severidade alta. Os usuários ficaram presos (dead-end), indicando a ausência de opções claras de cancelamento, retorno ou caminhos alternativos para sair da tela usando os controles do sistema.
+
+### Problemas de descoberta e contornos de uso (Tarefas 3 e 4): A dificuldade em localizar recursos básicos gerou etiquetas como "Cadê?" (não achar a busca na tela inicial) e "Vai de outro jeito." (copiar o link manualmente por não encontrar a opção de favoritar um evento). Isso demonstra problemas de visibilidade (discoverability) dos elementos de interação primários.
+
+### Frustração na criação de eventos (Tarefa 9): A tentativa de publicar um evento gerou falta de compreensão dos motivos de erro ("Por que não funciona?") seguida de abandono da tarefa ("Desisto"), revelando que os requisitos para publicação não são comunicados preventivamente ao usuário.
+
+### Os resultados indicam que a interface precisa de correções focadas em fornecer feedback imediato após interações, simplificar a jornada de cadastro e garantir rotas de fuga em modais ou telas de pagamento.
 
 <div>
