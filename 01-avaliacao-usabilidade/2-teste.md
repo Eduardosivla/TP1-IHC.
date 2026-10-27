@@ -292,7 +292,7 @@ Depois de finalizar o teste prático, os usuários responderam a algumas pergunt
 
 ---
 
-### Comprovações do Questionário
+#### Comprovações do Questionário
 ---
 [Comprovação das Repostas Via Forms](https://docs.google.com/spreadsheets/d/198zVPruAH0wDxL76ZU-rjVZwmoRETEkhoUB1MapNYWs/edit?usp=sharing)
 
@@ -301,8 +301,6 @@ Depois de finalizar o teste prático, os usuários responderam a algumas pergunt
 [Gráfico 02](https://github.com/user-attachments/assets/89abf655-ccc5-4cc7-bc95-56caeba2f73d)
 
 [Gráfico 03](https://github.com/user-attachments/assets/e233567e-68e1-467b-a741-5f4f89eea9d3)
-
-<br>
 
 ---
 
