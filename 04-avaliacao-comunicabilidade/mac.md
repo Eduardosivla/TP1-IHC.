@@ -57,17 +57,17 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 
 | Participante | Tarefa | Tela/Elementos | Situação Observada | Tipo de Falha | Etiqueta | Problema de Comunicabilidade |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:| 
-|P1|T1|Tela inicial|z|“foi ? foi !”|Ué, o que houve?|Usuário não percebe que já está na conta|
-|P2|T2|Tela de cadastro|a|b|c|t|
-|P1|T2|Tela de cadastro|a|b|c|t|
-|P1|T3|Tela inicial|a|b|c|t|
-|P1|T4|Tela de um evento|a|b|c|t|
-|P1|T5|Tela de um evento|a|b|c|t|
-|P1|T5|Tela de um evento|a|b|c|t|
-|P1|T6|Tela de validar pix|a|b|c|t|
-|P1|T9|Tela de criar evento|a|b|c|t|
-|P1|T9|Tela de criar eventos|a|b|c|t|
-|P1|T10|Tela de ajuda para produtos|a|b|c|t|
+|Rosaura Oliveira|T1|Tela inicial|z|“foi ? foi !”|Ué, o que houve?|Usuário não percebe que já está na conta|
+|Rosaura Oliveira|T2|Tela de cadastro|a|b|c|t|
+|Rosaura Oliveira|T2|Tela de cadastro|a|b|c|t|
+|Rosaura Oliveira|T3|Tela inicial|a|b|c|t|
+|Rosaura Oliveira|T4|Tela de um evento|a|b|c|t|
+|Rosaura Oliveira|T5|Tela de um evento|a|b|c|t|
+|Rosaura Oliveira|T5|Tela de um evento|a|b|c|t|
+|Rosaura Oliveira|T6|Tela de validar pix|a|b|c|t|
+|Rosaura Oliveira|T9|Tela de criar evento|a|b|c|t|
+|Rosaura Oliveira|T9|Tela de criar eventos|a|b|c|t|
+|Rosaura Oliveira|T10|Tela de ajuda para produtos|a|b|c|t|
 ## Consolidação das Etiquetas
 
 ### Explicar o que a tabela apresenta e discutir os resultados observados.
