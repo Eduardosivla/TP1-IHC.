@@ -54,7 +54,19 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 
 ## Etiquetagem das Rupturas
 
-### Explicar o que a tabela apresenta e discutir os resultados observados.
+A avaliação de usabilidade baseada no método MAC identificou falhas graves de comunicação na interface que geram frustração e impedem a conclusão de tarefas. Os principais problemas diagnosticados foram:
+
+Cadastro longo e confuso: Usuários pulam etapas frequentemente devido à má progressão ou exigência de dados desnecessários.
+
+Falta de feedback visual: O sistema não confirma o sucesso de ações como login, configurações ou término de tarefas, deixando o usuário em dúvida.
+
+Bloqueios de navegação ("Becos sem saída"): Telas críticas, como a de validação do PIX, não possuem botões de cancelamento ou retorno, forçando a desistência.
+
+Problemas de descoberta: Recursos básicos, como barra de busca e favoritar eventos, estão ocultos ou difíceis de encontrar.
+
+Erros não explicados: Falta de clareza nos requisitos para a publicação de eventos leva ao abandono da tarefa.
+
+Conclusão: Para corrigir esses atritos, a interface precisa simplificar a jornada de cadastro, fornecer respostas visuais imediatas após cada interação e garantir rotas de fuga claras (botões de voltar/cancelar), especialmente em modais e telas de pagamento.
 
 | Participante | Tarefa | Tela/Elementos | Situação Observada | Tipo de Falha | Etiqueta | Problema de Comunicabilidade |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:| 
@@ -83,7 +95,18 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 
 ## Consolidação das Etiquetas
 
-### Explicar o que a tabela apresenta e discutir os resultados observados.
+A avaliação MAC revelou falhas críticas de usabilidade no sistema, concentrando os atritos mais severos nas Tarefas 2, 4, 6 e 9. Os principais problemas diagnosticados incluem:
+
+Rejeição de etapas (T2): Ocorrência frequente de pulos no fluxo de cadastro, indicando excesso de passos ou solicitação de dados percebidos como desnecessários.
+
+Ausência de feedback (T1, T4, T5): Falta de respostas visuais do sistema após interações, deixando o usuário confuso sobre o status de suas ações.
+
+Bloqueios severos (T6, T9): Presença de "becos sem saída" na interface que impedem o progresso e forçam o usuário a abandonar a tarefa (desistência).
+
+Navegação e Inconsistência (T3, T4, T9, T10): Dificuldade em localizar recursos básicos (como buscas) e respostas inesperadas do sistema frente às ações executadas.
+
+As correções de design devem priorizar a simplificação do fluxo de cadastro (T2), a inclusão de feedback visual claro (T1, T4, T5) e o fornecimento de rotas de fuga para evitar o abandono em telas críticas (T6, T9).
+
 
 | Etiqueta | Ocorrências (Rosaura Oliveira) | Ocorrências (Maria Caroline) | Total | Tarefas mais afetadas |
 |:----:|:----:|:----:|:----:|:----:|
@@ -99,18 +122,5 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 | Cadê? | 0 | 1 | 1 | T3 |
 | Assim não dá. | 0 | 1 | 1 | T4 |
 
-### A tabela apresenta os resultados de uma avaliação de usabilidade baseada no Método de Avaliação de Comunicabilidade (MAC). Ela estrutura as evidências das interações de dois participantes (Rosaura Oliveira e Mario Caroline) ao realizarem tarefas no sistema, mapeando a situação observada (uma fala ou ação do usuário) para uma etiqueta padrão que traduz a expressão de ruptura na comunicação, além de diagnosticar o problema de design subjacente. A análise dos dados coletados revela padrões claros de falhas na interface e na comunicação do sistema com o usuário:
-
-### Fluxo de cadastro extenso ou confuso (Tarefa 2): A etiqueta "Não, obrigado." foi registrada múltiplas vezes para ambos os participantes na tela de cadastro. Isso evidencia que os usuários estão sistematicamente pulando etapas, o que sugere que o formulário solicita informações percebidas como desnecessárias naquele momento ou possui uma progressão mal sinalizada.
-
-### Ausência de feedback visual de estado (Tarefas 1, 4 e 5): O uso recorrente das etiquetas "Ué, o que houve?" e "Para mim está bom..." indica que o sistema falha em confirmar ações. Os usuários não percebem quando o login é efetuado com sucesso (T1), aguardam alterações na tela que não ocorrem após mudar configurações (T4) ou acreditam falsamente que concluíram a tarefa (T5).
-
-### Bloqueios críticos de navegação (Tarefa 6): A ocorrência da etiqueta "Desisto" por ambos os participantes na tela de validação de PIX representa uma falha de severidade alta. Os usuários ficaram presos (dead-end), indicando a ausência de opções claras de cancelamento, retorno ou caminhos alternativos para sair da tela usando os controles do sistema.
-
-### Problemas de descoberta e contornos de uso (Tarefas 3 e 4): A dificuldade em localizar recursos básicos gerou etiquetas como "Cadê?" (não achar a busca na tela inicial) e "Vai de outro jeito." (copiar o link manualmente por não encontrar a opção de favoritar um evento). Isso demonstra problemas de visibilidade (discoverability) dos elementos de interação primários.
-
-### Frustração na criação de eventos (Tarefa 9): A tentativa de publicar um evento gerou falta de compreensão dos motivos de erro ("Por que não funciona?") seguida de abandono da tarefa ("Desisto"), revelando que os requisitos para publicação não são comunicados preventivamente ao usuário.
-
-### Os resultados indicam que a interface precisa de correções focadas em fornecer feedback imediato após interações, simplificar a jornada de cadastro e garantir rotas de fuga em modais ou telas de pagamento.
 
 <div>
