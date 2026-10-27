@@ -85,8 +85,7 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 
 ### Explicar o que a tabela apresenta e discutir os resultados observados.
 
-| Etiqueta | Ocorrências (Rosaura Oliveira
-) | Ocorrências (Maria Caroline) | Total | Tarefas mais afetadas |
+| Etiqueta | Ocorrências (Rosaura Oliveira) | Ocorrências (Maria Caroline) | Total | Tarefas mais afetadas |
 |:----:|:----:|:----:|:----:|:----:|
 | Não, obrigado. | 2 | 2 | 4 | T2 |
 | Ué, o que houve? | 2 | 1 | 3 | T1, T4, T5 |
