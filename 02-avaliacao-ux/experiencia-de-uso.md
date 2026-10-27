@@ -184,7 +184,7 @@ Para visualizar o impacto real dos problemas relatados na percepção dos usuár
 
 
 ### 5. Considerações sobre a experiência do usuário
-
+---
 Como notado, as reclamações mais recorrentes dos participantes concentraram-se nos **"Problemas nos filtros de pesquisa"** e no **"Excesso de informação / Confusão visual."**, ambos mencionados 3 vezes. 
 Nota-se que a dificuldade de guardar eventos gerou dois códigos muito semelhantes ("Dificuldade em favoritar/guardar um evento" e "Dificuldade em favoritar/guardar evento") que, analisados em conjunto, evidenciam outro ponto de atrito frequente na interface.
 
