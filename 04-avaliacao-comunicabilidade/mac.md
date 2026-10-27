@@ -39,7 +39,7 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 ## Participantes e Tarefas:
 
 ### Rosaura Oliveira.
-Maria Caroline
+### Maria Caroline
 
 ---
 
