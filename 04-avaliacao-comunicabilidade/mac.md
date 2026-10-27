@@ -70,15 +70,35 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 |Rosaura Oliveira|T9|Tela de criar eventos|“Desisto”|b|Desisto|Usuário não consegue concluir a tarefa|
 |Rosaura Oliveira|T10|Tela de ajuda para produtos|Não aplicável|b|Onde estou? |Usuário segue um caminho alternativo ao central de ajuda|
 
+| Participante | Tarefa | Tela/Elementos | Situação Observada | Tipo de Falha | Etiqueta | Problema de Comunicabilidade |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:| 
+|Maria Caroline|T2|Tela de cadastro|Não aplicável|Temporário|Não, obrigado.|Usuário pula uma etapa do cadastro|
+|Maria Caroline|T2|Tela de cadastro|Não aplicável|Temporário|Não, obrigado.|Usuário pulou outra etapa do cadastro|
+|Maria Caroline|T3|Tela inicial|“Ou sou eu que não sei usar?”|Temporário|E agora?|Usuário não entende como prosseguir para terminar a tarefa|
+|Maria Caroline|T3|Tela inicial|Não aplicável|Temporário|Cadê?|Usuário não consegue identificar um método de busca|
+|Maria Caroline|T4|Tela de um evento|“Puxa mas não aparece”|Temporário|Ué, o que houve?|Após algumas configurações o usuário esperava uma resposta/alteração que não apareceu|
+|Maria Caroline|T4|Tela de um evento|Não aplicável|Temporário|Assim não dá.|Usuário mudou tipo de conta para poder realizar uma ação|
+|Maria Caroline|T4|Tela de um evento|“Pois é não vai”|Temporário|Por que não funciona?|Mesmo fazendo as devidas alterações, o sistema não responde de forma apropriada resultado, tarefa não terminada por isso|
+|Maria Caroline|T6|Tela de validação de pix|“Não, vou desistir”|Temporário|Desisto|Usuário não conseguiu sair da tela com os recursos do sistema|
 
 ## Consolidação das Etiquetas
 
 ### Explicar o que a tabela apresenta e discutir os resultados observados.
 
-| Etiqueta | Ocorrências (P1) | Ocorrências (P2) | Total | Tarefas mais afetadas |
+| Etiqueta | Ocorrências (Rosaura Oliveira
+) | Ocorrências (Maria Caroline) | Total | Tarefas mais afetadas |
 |:----:|:----:|:----:|:----:|:----:|
-|P1|y|z|a|b|c|t|
-|P2|y|z|a|b|c|t|
+| Não, obrigado. | 2 | 2 | 4 | T2 |
+| Ué, o que houve? | 2 | 1 | 3 | T1, T4, T5 |
+| Desisto | 2 | 1 | 3 | T6, T9 |
+| Por que não funciona? | 1 | 1 | 2 | T4, T9 |
+| Epa! | 1 | 0 | 1 | T3 |
+| Vai de outro jeito. | 1 | 0 | 1 | T4 |
+| Para mim está bom... | 1 | 0 | 1 | T5 |
+| Onde estou? | 1 | 0 | 1 | T10 |
+| E agora? | 0 | 1 | 1 | T3 |
+| Cadê? | 0 | 1 | 1 | T3 |
+| Assim não dá. | 0 | 1 | 1 | T4 |
 
 ### Apresentar os principais resultados da avaliação, destacando quais etiquetas apareceram com maior
 frequência, quais tarefas apresentaram mais rupturas e o que esses resultados indicam sobre a comunicação
