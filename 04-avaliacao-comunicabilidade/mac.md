@@ -67,7 +67,7 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 |P1|T6|Tela de validar pix|a|b|c|t|
 |P1|T9|Tela de criar evento|a|b|c|t|
 |P1|T9|Tela de criar eventos|a|b|c|t|
-|P1|10|Tela de ajuda para produtos|a|b|c|t|
+|P1|T10|Tela de ajuda para produtos|a|b|c|t|
 ## Consolidação das Etiquetas
 
 ### Explicar o que a tabela apresenta e discutir os resultados observados.
