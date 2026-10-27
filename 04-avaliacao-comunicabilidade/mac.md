@@ -59,16 +59,16 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 | Participante | Tarefa | Tela/Elementos | Situação Observada | Tipo de Falha | Etiqueta | Problema de Comunicabilidade |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:| 
 |Rosaura Oliveira|T1|Tela inicial|“foi ? foi !”|b|Ué, o que houve?|Usuário não percebe que já está na conta|
-|Rosaura Oliveira|T2|Tela de cadastro|“continuar cadastro”|b|c|t|
-|Rosaura Oliveira|T2|Tela de cadastro|“foi?”|b|c|t|
-|Rosaura Oliveira|T3|Tela inicial|“opa”|b|c|t|
-|Rosaura Oliveira|T4|Tela de um evento|“aham eu copiei o link...”|b|c|t|
-|Rosaura Oliveira|T5|Tela de um evento|“Não era isso?”|b|c|t|
-|Rosaura Oliveira|T5|Tela de um evento|“Não foi só...”|b|c|t|
-|Rosaura Oliveira|T6|Tela de validar pix|“Tá eu não consegui”|b|c|t|
-|Rosaura Oliveira|T9|Tela de criar evento|“Não tá dando pra publicar..”|b|c|t|
-|Rosaura Oliveira|T9|Tela de criar eventos|“Desisto”|b|c|t|
-|Rosaura Oliveira|T10|Tela de ajuda para produtos|Não aplicável|b|c|t|
+|Rosaura Oliveira|T2|Tela de cadastro|“continuar cadastro”|b|Não, obrigado. |t|
+|Rosaura Oliveira|T2|Tela de cadastro|“foi?”|b|Não, obrigado. |t|
+|Rosaura Oliveira|T3|Tela inicial|“opa”|b|Epa!|t|
+|Rosaura Oliveira|T4|Tela de um evento|“aham eu copiei o link...”|b|Vai de outro jeito.|t|
+|Rosaura Oliveira|T5|Tela de um evento|“Não era isso?”|b|Para mim está bom...|t|
+|Rosaura Oliveira|T5|Tela de um evento|“Não foi só...”|b|Ué, o que houve? |t|
+|Rosaura Oliveira|T6|Tela de validar pix|“Tá eu não consegui”|b|Desisto|t|
+|Rosaura Oliveira|T9|Tela de criar evento|“Não tá dando pra publicar..”|b|Por que não funciona?|t|
+|Rosaura Oliveira|T9|Tela de criar eventos|“Desisto”|b|Desisto|t|
+|Rosaura Oliveira|T10|Tela de ajuda para produtos|Não aplicável|b|Onde estou? |t|
 ## Consolidação das Etiquetas
 
 ### Explicar o que a tabela apresenta e discutir os resultados observados.
