@@ -14,14 +14,14 @@ Para coletar informações sobre a usabilidade e a experiência do usuário, a e
   
 | Tarefa | Objetivo | Descrição |
 |---|---|---|
-| T1 | Criar uma conta | Comece sem estar conectado. Localize a opção de cadastro e crie uma conta utilizando um e-mail de teste ao qual tenha acesso. |
-| T2 | Entrar e sair da conta | Entre com as credenciais da conta de teste, encontre a área de perfil e saia da conta. |
-| T3 | Pesquisar um evento específico | Encontre um evento de tecnologia digitando termos de busca. Abra uma opção e informe o nome e a data. |
-| T4 | Buscar evento gratuito na cidade | Encontre um evento gratuito na cidade de Manaus. Informe nome, data e se é presencial ou on-line. |
-| T5 | Buscar por data e categoria | Procure um evento cultural ou de entretenimento para um fim de semana futuro. Verifique se a data e o horário atendem ao critério. |
-| T6 | Verificar detalhes do ingresso | Abra um evento com ingressos disponíveis. Identifique categorias de ingressos, preço e possíveis taxas, sem concluir uma compra. |
-| T7 | Encontrar informações para participar | Escolha um evento presencial e descubra o endereço, o horário de início e as orientações para participação descritas no anúncio. |
-| T9 | Criar um evento | Crie um evento online, escolha as especificações, preencha os dados corretamente e defina o tipo de ingresso e as especificações solicitadas pelo sistema. |
+| **T1** | Criar uma conta | Comece sem estar conectado. Localize a opção de cadastro e crie uma conta utilizando um e-mail de teste ao qual tenha acesso. |
+| **T2** | Entrar e sair da conta | Entre com as credenciais da conta de teste, encontre a área de perfil e saia da conta. |
+| **T3** | Pesquisar um evento específico | Encontre um evento de tecnologia digitando termos de busca. Abra uma opção e informe o nome e a data. |
+| **T4** | Buscar evento gratuito na cidade | Encontre um evento gratuito na cidade de Manaus. Informe nome, data e se é presencial ou on-line. |
+| **T5** | Buscar por data e categoria | Procure um evento cultural ou de entretenimento para um fim de semana futuro. Verifique se a data e o horário atendem ao critério. |
+| **T6** | Verificar detalhes do ingresso | Abra um evento com ingressos disponíveis. Identifique categorias de ingressos, preço e possíveis taxas, sem concluir uma compra. |
+| **T7** | Encontrar informações para participar | Escolha um evento presencial e descubra o endereço, o horário de início e as orientações para participação descritas no anúncio. |
+| **T8** | Criar um evento | Crie um evento online, escolha as especificações, preencha os dados corretamente e defina o tipo de ingresso e as especificações solicitadas pelo sistema. |
 
 <div>
 
@@ -289,6 +289,17 @@ Depois de finalizar o teste prático, os usuários responderam a algumas pergunt
 | **P6** | Pagina de detalhes do evento | Talvez | deixaria a interface mais simples |
 | **P7** | Filtros de pesquisa. | Talvez | Ajustaria o processo de cadastro na plataforma, que no momento se encontra dividido em duas etapas e deixa o usuário bem confuso se realmente a conta foi criada ou não. Também ajustaria a parte de pesquisa de eventos na plataforma, pois a funcionalidade de aplicação de filtros fica "escondida" |
 | **P8** | Página de detalhes do evento. Campo de busca | Não | Tela cheia de informações, confunderm a gente kkk. Organização das categorias |
+
+---
+
+### Comprovações do Questionário
+---
+[Comprovação das Repostas Via Forms](https://docs.google.com/spreadsheets/d/198zVPruAH0wDxL76ZU-rjVZwmoRETEkhoUB1MapNYWs/edit?usp=sharing)
+[Gráfico 01](https://github.com/user-attachments/assets/0f93fc92-2b28-4c8c-9b1b-87c7e5647aa8)
+
+[Gráfico 02](https://github.com/user-attachments/assets/89abf655-ccc5-4cc7-bc95-56caeba2f73d)
+
+[Gráfico 03](https://github.com/user-attachments/assets/e233567e-68e1-467b-a741-5f4f89eea9d3)
 
 <br>
 
