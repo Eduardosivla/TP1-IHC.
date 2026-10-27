@@ -45,8 +45,6 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 
 ## Registro das Seções:
 
-### [Apresentar o link dos vídeos]
-
 - [Vídeo do participante Maria Caroline](https://classroom.google.com/h/st)
 - [Vídeo do participante Rosaura Oliveira](https://classroom.google.com/h/st)
 
@@ -81,9 +79,6 @@ Conclusão: Para corrigir esses atritos, a interface precisa simplificar a jorna
 |Rosaura Oliveira|T9|Tela de criar evento|“Não tá dando pra publicar..”|Temporário|Por que não funciona?|Usuário esperava a criação de um evento porém não compreende inicialmente o motivo|
 |Rosaura Oliveira|T9|Tela de criar eventos|“Desisto”|Temporário|Desisto|Usuário não consegue concluir a tarefa|
 |Rosaura Oliveira|T10|Tela de ajuda para produtos|Não aplicável|Temporário|Onde estou? |Usuário segue um caminho alternativo ao central de ajuda|
-
-| Participante | Tarefa | Tela/Elementos | Situação Observada | Tipo de Falha | Etiqueta | Problema de Comunicabilidade |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:| 
 |Maria Caroline|T2|Tela de cadastro|Não aplicável|Temporário|Não, obrigado.|Usuário pula uma etapa do cadastro|
 |Maria Caroline|T2|Tela de cadastro|Não aplicável|Temporário|Não, obrigado.|Usuário pulou outra etapa do cadastro|
 |Maria Caroline|T3|Tela inicial|“Ou sou eu que não sei usar?”|Temporário|E agora?|Usuário não entende como prosseguir para terminar a tarefa|
