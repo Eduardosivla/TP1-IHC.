@@ -47,8 +47,8 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 
 ### [Apresentar o link dos vídeos]
 
-- [Vídeo do participante U1](https://classroom.google.com/h/st)
-- [Vídeo do participante U2](https://classroom.google.com/h/st)
+- [Vídeo do participante Maria Caroline](https://classroom.google.com/h/st)
+- [Vídeo do participante Rosaura Oliveira](https://classroom.google.com/h/st)
 
 ---
 
