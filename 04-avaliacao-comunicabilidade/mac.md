@@ -122,5 +122,10 @@ As correções de design devem priorizar a simplificação do fluxo de cadastro 
 | Cadê? | 0 | 1 | 1 | T3 |
 | Assim não dá. | 0 | 1 | 1 | T4 |
 
+Etiquetas mais frequentes: As rupturas de comunicação mais comuns foram "Não, obrigado." (associada à rejeição de etapas de cadastro), "Ué, o que houve?" (refletindo a ausência de feedback visual) e "Desisto" (indicando falhas críticas e bloqueios severos de navegação).
+
+Tarefas com mais rupturas: Os atritos mais severos concentraram-se nas tarefas T2 (fluxo de cadastro excessivo), T4 e T5 (ações sem confirmação de estado), além da T6 e T9 (telas com becos sem saída e erros não explicados).
+
+Comunicação entre o sistema e os usuários: Os resultados indicam que a comunicação do sistema é falha e não suporta adequadamente o usuário durante sua jornada. O sistema gera confusão ao omitir respostas visuais após interações, exige dados percebidos como desnecessários e falha em fornecer rotas de fuga ou explicações claras em momentos críticos, o que rompe o diálogo interativo e força o abandono das tarefas.
 
 <div>
