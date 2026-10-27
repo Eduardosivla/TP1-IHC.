@@ -46,7 +46,7 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 ## 📹 Registro das Seções:
 
 - [Vídeo do participante Maria Caroline](https://classroom.google.com/h/st)
-- [Vídeo do participante Rosaura Oliveira](https://classroom.google.com/h/st)
+- [Vídeo do participante Rosaura Oliveira](https://www.youtube.com/watch?v=WO08GH94qZo)
 
 ---
 
