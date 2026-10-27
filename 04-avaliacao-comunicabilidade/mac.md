@@ -90,18 +90,19 @@ Conclusão: Para corrigir esses atritos, a interface precisa simplificar a jorna
 
 ## 📈 Consolidação das Etiquetas
 
-A avaliação MAC revelou falhas críticas de usabilidade no sistema, concentrando os atritos mais severos nas Tarefas 2, 4, 6 e 9. Os principais problemas diagnosticados incluem:
+- A avaliação MAC revelou falhas críticas de usabilidade no sistema, concentrando os atritos mais severos nas Tarefas 2, 4, 6 e 9. Os principais problemas diagnosticados incluem:
 
-Rejeição de etapas (T2): Ocorrência frequente de pulos no fluxo de cadastro, indicando excesso de passos ou solicitação de dados percebidos como desnecessários.
+- Rejeição de etapas (T2): Ocorrência frequente de pulos no fluxo de cadastro, indicando excesso de passos ou solicitação de dados percebidos como desnecessários.
 
-Ausência de feedback (T1, T4, T5): Falta de respostas visuais do sistema após interações, deixando o usuário confuso sobre o status de suas ações.
+- Ausência de feedback (T1, T4, T5): Falta de respostas visuais do sistema após interações, deixando o usuário confuso sobre o status de suas ações.
 
-Bloqueios severos (T6, T9): Presença de "becos sem saída" na interface que impedem o progresso e forçam o usuário a abandonar a tarefa (desistência).
+- Bloqueios severos (T6, T9): Presença de "becos sem saída" na interface que impedem o progresso e forçam o usuário a abandonar a tarefa (desistência).
 
-Navegação e Inconsistência (T3, T4, T9, T10): Dificuldade em localizar recursos básicos (como buscas) e respostas inesperadas do sistema frente às ações executadas.
+- Navegação e Inconsistência (T3, T4, T9, T10): Dificuldade em localizar recursos básicos (como buscas) e respostas inesperadas do sistema frente às ações executadas.
 
-As correções de design devem priorizar a simplificação do fluxo de cadastro (T2), a inclusão de feedback visual claro (T1, T4, T5) e o fornecimento de rotas de fuga para evitar o abandono em telas críticas (T6, T9).
+- As correções de design devem priorizar a simplificação do fluxo de cadastro (T2), a inclusão de feedback visual claro (T1, T4, T5) e o fornecimento de rotas de fuga para evitar o abandono em telas críticas (T6, T9).
 
+---
 
 | Etiqueta | Ocorrências (Rosaura Oliveira) | Ocorrências (Maria Caroline) | Total | Tarefas mais afetadas |
 |:----:|:----:|:----:|:----:|:----:|
@@ -116,6 +117,8 @@ As correções de design devem priorizar a simplificação do fluxo de cadastro 
 | E agora? | 0 | 1 | 1 | T3 |
 | Cadê? | 0 | 1 | 1 | T3 |
 | Assim não dá. | 0 | 1 | 1 | T4 |
+
+---
 
 Etiquetas mais frequentes: As rupturas de comunicação mais comuns foram "Não, obrigado." (associada à rejeição de etapas de cadastro), "Ué, o que houve?" (refletindo a ausência de feedback visual) e "Desisto" (indicando falhas críticas e bloqueios severos de navegação).
 
