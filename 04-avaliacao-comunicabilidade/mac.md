@@ -59,16 +59,18 @@ Essas etiquetas são fundamentais para diagnosticar exatamente onde o design fal
 | Participante | Tarefa | Tela/Elementos | Situação Observada | Tipo de Falha | Etiqueta | Problema de Comunicabilidade |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:| 
 |Rosaura Oliveira|T1|Tela inicial|“foi ? foi !”|b|Ué, o que houve?|Usuário não percebe que já está na conta|
-|Rosaura Oliveira|T2|Tela de cadastro|“continuar cadastro”|b|Não, obrigado. |t|
-|Rosaura Oliveira|T2|Tela de cadastro|“foi?”|b|Não, obrigado. |t|
-|Rosaura Oliveira|T3|Tela inicial|“opa”|b|Epa!|t|
-|Rosaura Oliveira|T4|Tela de um evento|“aham eu copiei o link...”|b|Vai de outro jeito.|t|
-|Rosaura Oliveira|T5|Tela de um evento|“Não era isso?”|b|Para mim está bom...|t|
-|Rosaura Oliveira|T5|Tela de um evento|“Não foi só...”|b|Ué, o que houve? |t|
-|Rosaura Oliveira|T6|Tela de validar pix|“Tá eu não consegui”|b|Desisto|t|
-|Rosaura Oliveira|T9|Tela de criar evento|“Não tá dando pra publicar..”|b|Por que não funciona?|t|
-|Rosaura Oliveira|T9|Tela de criar eventos|“Desisto”|b|Desisto|t|
-|Rosaura Oliveira|T10|Tela de ajuda para produtos|Não aplicável|b|Onde estou? |t|
+|Rosaura Oliveira|T2|Tela de cadastro|“continuar cadastro”|b|Não, obrigado. |Usuário pulou uma etapa do cadastro|
+|Rosaura Oliveira|T2|Tela de cadastro|“foi?”|b|Não, obrigado. |Novamente pulou uma etapa do cadastro|
+|Rosaura Oliveira|T3|Tela inicial|“opa”|b|Epa!|Usuário clicou em uma opção errada e voltou|
+|Rosaura Oliveira|T4|Tela de um evento|“aham eu copiei o link...”|b|Vai de outro jeito.|Usuário guardou o evento copiando seu link e não usando a opção favoritar pois não foi achada |
+|Rosaura Oliveira|T5|Tela de um evento|“Não era isso?”|b|Para mim está bom...|Usuário acredita ter terminado a tarefa|
+|Rosaura Oliveira|T5|Tela de um evento|“Não foi só...”|b|Ué, o que houve? |Usuário não entende que a tarefa não foi realizada após conclusão dos dados da sua conta|
+|Rosaura Oliveira|T6|Tela de validar pix|“Tá eu não consegui”|b|Desisto|Usuário não conseguiu sair da tela usando os recursos do sistema|
+|Rosaura Oliveira|T9|Tela de criar evento|“Não tá dando pra publicar..”|b|Por que não funciona?|Usuário esperava a criação de um evento porém não compreende inicialmente o motivo|
+|Rosaura Oliveira|T9|Tela de criar eventos|“Desisto”|b|Desisto|Usuário não consegue concluir a tarefa|
+|Rosaura Oliveira|T10|Tela de ajuda para produtos|Não aplicável|b|Onde estou? |Usuário segue um caminho alternativo ao central de ajuda|
+
+
 ## Consolidação das Etiquetas
 
 ### Explicar o que a tabela apresenta e discutir os resultados observados.
