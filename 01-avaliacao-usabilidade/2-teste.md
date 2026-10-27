@@ -36,11 +36,11 @@ Para a realização do teste, a equipe preparou os instrumentos abaixo, aplicado
 
 |Instrumentos|Finalidade| Quando foi aplicado|
 |------------|----------|--------------------|
-| TCLE | Registrar o consentimento do participante | Antes da sessão (em papel) |
-| Questionário de caracterização | Conhecer o perfil do participante | Início do teste, no Maze |
-| Lista de tarefas (T1 a T10) | Observar o uso do sistema em situações reais | Durante o teste, no Maze |
-| Questionário pós-teste (UEQ e 5 perguntas abertas) | Medir a experiência de uso e coletar opiniões | Ao final do teste, no Maze |
-| Registro do observador | Anotar tempo, erros e resultado de cada tarefa | Durante a sessão |
+| **TCLE** | Registrar o consentimento do participante | Antes da sessão (em papel) |
+| **Questionário de caracterização** | Conhecer o perfil do participante | Início do teste, no Maze |
+| **Lista de tarefas (T1 a T10)** | Observar o uso do sistema em situações reais | Durante o teste, no Maze |
+| **Questionário pós-teste (UEQ e 5 perguntas abertas)** | Medir a experiência de uso e coletar opiniões | Ao final do teste, no Maze |
+| **Registro do observador**| Anotar tempo, erros e resultado de cada tarefa | Durante a sessão |
 
 <div>
 
@@ -295,6 +295,7 @@ Depois de finalizar o teste prático, os usuários responderam a algumas pergunt
 ### Comprovações do Questionário
 ---
 [Comprovação das Repostas Via Forms](https://docs.google.com/spreadsheets/d/198zVPruAH0wDxL76ZU-rjVZwmoRETEkhoUB1MapNYWs/edit?usp=sharing)
+
 [Gráfico 01](https://github.com/user-attachments/assets/0f93fc92-2b28-4c8c-9b1b-87c7e5647aa8)
 
 [Gráfico 02](https://github.com/user-attachments/assets/89abf655-ccc5-4cc7-bc95-56caeba2f73d)
